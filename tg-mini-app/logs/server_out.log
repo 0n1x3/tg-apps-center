@@ -1,0 +1,2875 @@
+2024-10-22T02:26:26: info: POST /api/user/settings
+2024-10-22T02:26:26: POST /api/user/settings
+2024-10-22T02:26:26: info: GET /api/user/settings/422053225
+2024-10-22T02:26:26: GET /api/user/settings/422053225
+2024-10-22T02:26:26: info: GET /api/apps
+2024-10-22T02:26:26: GET /api/apps
+2024-10-22T02:26:26: info: Fetched 59 apps. Sort type: alphabet
+2024-10-22T02:26:26: info: POST /api/user/activity
+2024-10-22T02:26:26: POST /api/user/activity
+2024-10-22T02:26:26: Received user activity data: {
+2024-10-22T02:26:26:   userId: 422053225,
+2024-10-22T02:26:26:   username: 'eugenonyx',
+2024-10-22T02:26:26:   firstName: 'Евгений TIME',
+2024-10-22T02:26:26:   lastName: ''
+2024-10-22T02:26:26: }
+2024-10-22T02:26:26: info: GET /api/apps
+2024-10-22T02:26:26: GET /api/apps
+2024-10-22T02:26:26: info: Fetched 59 apps. Sort type: alphabet
+2024-10-22T02:37:38: info: GET /api/user/settings/422053225
+2024-10-22T02:37:38: GET /api/user/settings/422053225
+2024-10-22T02:37:38: info: GET /api/apps
+2024-10-22T02:37:38: GET /api/apps
+2024-10-22T02:37:38: info: Fetched 59 apps. Sort type: alphabet
+2024-10-22T02:37:38: info: POST /api/user/settings
+2024-10-22T02:37:38: POST /api/user/settings
+2024-10-22T02:37:38: info: POST /api/user/activity
+2024-10-22T02:37:38: POST /api/user/activity
+2024-10-22T02:37:38: Received user activity data: {
+2024-10-22T02:37:38:   userId: 422053225,
+2024-10-22T02:37:38:   username: 'eugenonyx',
+2024-10-22T02:37:38:   firstName: 'Евгений TIME',
+2024-10-22T02:37:38:   lastName: ''
+2024-10-22T02:37:38: }
+2024-10-22T02:37:38: info: GET /api/apps
+2024-10-22T02:37:38: GET /api/apps
+2024-10-22T02:37:38: info: Fetched 59 apps. Sort type: alphabet
+2024-10-22T02:38:18: info: GET /api/user/settings/422053225
+2024-10-22T02:38:18: GET /api/user/settings/422053225
+2024-10-22T02:38:18: info: GET /api/apps
+2024-10-22T02:38:18: GET /api/apps
+2024-10-22T02:38:18: info: Fetched 59 apps. Sort type: alphabet
+2024-10-22T02:38:18: info: POST /api/user/activity
+2024-10-22T02:38:18: POST /api/user/activity
+2024-10-22T02:38:18: Received user activity data: {
+2024-10-22T02:38:18:   userId: 422053225,
+2024-10-22T02:38:18:   username: 'eugenonyx',
+2024-10-22T02:38:18:   firstName: 'Евгений TIME',
+2024-10-22T02:38:18:   lastName: ''
+2024-10-22T02:38:18: }
+2024-10-22T02:38:18: info: POST /api/user/settings
+2024-10-22T02:38:18: POST /api/user/settings
+2024-10-22T02:38:18: info: GET /api/apps
+2024-10-22T02:38:18: GET /api/apps
+2024-10-22T02:38:18: info: Fetched 59 apps. Sort type: alphabet
+2024-10-22T02:38:18: info: GET /api/favorites/422053225
+2024-10-22T02:38:18: GET /api/favorites/422053225
+2024-10-22T02:38:24: info: POST /api/user/settings
+2024-10-22T02:38:24: POST /api/user/settings
+2024-10-22T02:38:43: info: GET /api/user/settings/6997862096
+2024-10-22T02:38:43: GET /api/user/settings/6997862096
+2024-10-22T02:38:43: info: GET /api/apps
+2024-10-22T02:38:43: GET /api/apps
+2024-10-22T02:38:43: info: POST /api/user/activity
+2024-10-22T02:38:43: POST /api/user/activity
+2024-10-22T02:38:43: Received user activity data: {
+2024-10-22T02:38:43:   userId: 6997862096,
+2024-10-22T02:38:43:   username: 'diamondxton',
+2024-10-22T02:38:43:   firstName: 'Sleepton',
+2024-10-22T02:38:43:   lastName: ''
+2024-10-22T02:38:43: }
+2024-10-22T02:38:43: info: Fetched 59 apps. Sort type: alphabet
+2024-10-22T02:38:43: info: POST /api/user/settings
+2024-10-22T02:38:43: POST /api/user/settings
+2024-10-22T02:38:43: info: GET /api/apps
+2024-10-22T02:38:43: GET /api/apps
+2024-10-22T02:38:43: info: Fetched 59 apps. Sort type: alphabet
+2024-10-22T02:38:43: info: POST /api/user/settings
+2024-10-22T02:38:43: POST /api/user/settings
+2024-10-22T02:38:43: info: GET /api/favorites/6997862096
+2024-10-22T02:38:43: GET /api/favorites/6997862096
+2024-10-22T02:41:56: info: GET /api/user/settings/422053225
+2024-10-22T02:41:56: GET /api/user/settings/422053225
+2024-10-22T02:41:56: info: GET /api/apps
+2024-10-22T02:41:56: GET /api/apps
+2024-10-22T02:41:56: info: POST /api/user/activity
+2024-10-22T02:41:56: POST /api/user/activity
+2024-10-22T02:41:56: Received user activity data: {
+2024-10-22T02:41:56:   userId: 422053225,
+2024-10-22T02:41:56:   username: 'eugenonyx',
+2024-10-22T02:41:56:   firstName: 'Евгений TIME',
+2024-10-22T02:41:56:   lastName: ''
+2024-10-22T02:41:56: }
+2024-10-22T02:41:56: info: Fetched 59 apps. Sort type: alphabet
+2024-10-22T02:41:56: info: POST /api/user/settings
+2024-10-22T02:41:56: POST /api/user/settings
+2024-10-22T02:41:56: info: GET /api/apps
+2024-10-22T02:41:56: GET /api/apps
+2024-10-22T02:41:56: info: Fetched 59 apps. Sort type: alphabet
+2024-10-22T02:41:56: info: POST /api/user/settings
+2024-10-22T02:41:56: POST /api/user/settings
+2024-10-22T02:41:56: info: GET /api/favorites/422053225
+2024-10-22T02:41:56: GET /api/favorites/422053225
+2024-10-22T02:42:03: info: POST /api/user/settings
+2024-10-22T02:42:03: POST /api/user/settings
+2024-10-22T02:42:03: info: POST /api/user/activity
+2024-10-22T02:42:03: POST /api/user/activity
+2024-10-22T02:42:03: Received user activity data: {
+2024-10-22T02:42:03:   userId: 422053225,
+2024-10-22T02:42:03:   username: 'eugenonyx',
+2024-10-22T02:42:03:   firstName: 'Евгений TIME',
+2024-10-22T02:42:03:   lastName: ''
+2024-10-22T02:42:03: }
+2024-10-22T02:42:03: info: GET /api/user/settings/422053225
+2024-10-22T02:42:03: GET /api/user/settings/422053225
+2024-10-22T02:42:03: info: GET /api/apps
+2024-10-22T02:42:03: GET /api/apps
+2024-10-22T02:42:03: info: Fetched 59 apps. Sort type: alphabet
+2024-10-22T02:42:03: info: GET /api/apps
+2024-10-22T02:42:03: GET /api/apps
+2024-10-22T02:42:03: info: Fetched 59 apps. Sort type: alphabet
+2024-10-22T02:42:03: info: GET /api/favorites/422053225
+2024-10-22T02:42:03: GET /api/favorites/422053225
+2024-10-22T02:42:04: info: POST /api/user/settings
+2024-10-22T02:42:04: POST /api/user/settings
+2024-10-22T02:42:05: info: POST /api/user/settings
+2024-10-22T02:42:05: POST /api/user/settings
+2024-10-22T02:42:08: info: GET /api/user/settings/422053225
+2024-10-22T02:42:08: GET /api/user/settings/422053225
+2024-10-22T02:42:08: info: POST /api/user/settings
+2024-10-22T02:42:08: POST /api/user/settings
+2024-10-22T02:42:08: info: POST /api/user/activity
+2024-10-22T02:42:08: POST /api/user/activity
+2024-10-22T02:42:08: Received user activity data: {
+2024-10-22T02:42:08:   userId: 422053225,
+2024-10-22T02:42:08:   username: 'eugenonyx',
+2024-10-22T02:42:08:   firstName: 'Евгений TIME',
+2024-10-22T02:42:08:   lastName: ''
+2024-10-22T02:42:08: }
+2024-10-22T02:42:08: info: GET /api/apps
+2024-10-22T02:42:08: GET /api/apps
+2024-10-22T02:42:08: info: Fetched 59 apps. Sort type: alphabet
+2024-10-22T02:42:08: info: GET /api/apps
+2024-10-22T02:42:08: GET /api/apps
+2024-10-22T02:42:08: info: Fetched 59 apps. Sort type: alphabet
+2024-10-22T02:42:08: info: POST /api/user/settings
+2024-10-22T02:42:08: POST /api/user/settings
+2024-10-22T02:42:08: info: GET /api/favorites/422053225
+2024-10-22T02:42:08: GET /api/favorites/422053225
+2024-10-22T06:34:39: info: POST /api/user/settings
+2024-10-22T06:34:39: POST /api/user/settings
+2024-10-22T06:34:39: info: POST /api/user/activity
+2024-10-22T06:34:39: POST /api/user/activity
+2024-10-22T06:34:39: Received user activity data: {
+2024-10-22T06:34:39:   userId: 422053225,
+2024-10-22T06:34:39:   username: 'eugenonyx',
+2024-10-22T06:34:39:   firstName: 'Евгений TIME',
+2024-10-22T06:34:39:   lastName: ''
+2024-10-22T06:34:39: }
+2024-10-22T06:34:39: info: GET /api/user/settings/422053225
+2024-10-22T06:34:39: GET /api/user/settings/422053225
+2024-10-22T06:34:39: info: GET /api/apps
+2024-10-22T06:34:39: GET /api/apps
+2024-10-22T06:34:39: info: Fetched 59 apps. Sort type: alphabet
+2024-10-22T06:34:39: info: GET /api/apps
+2024-10-22T06:34:39: GET /api/apps
+2024-10-22T06:34:39: info: Fetched 59 apps. Sort type: alphabet
+2024-10-22T06:34:39: info: GET /api/favorites/422053225
+2024-10-22T06:34:39: GET /api/favorites/422053225
+2024-10-22T06:34:44: info: POST /api/user/settings
+2024-10-22T06:34:44: POST /api/user/settings
+2024-10-22T06:34:51: info: POST /api/user/settings
+2024-10-22T06:34:51: POST /api/user/settings
+2024-10-22T07:50:34: info: GET /api/user/settings/422053225
+2024-10-22T07:50:34: GET /api/user/settings/422053225
+2024-10-22T07:50:34: info: POST /api/user/settings
+2024-10-22T07:50:34: POST /api/user/settings
+2024-10-22T07:50:34: info: GET /api/apps
+2024-10-22T07:50:34: GET /api/apps
+2024-10-22T07:50:34: info: POST /api/user/activity
+2024-10-22T07:50:34: POST /api/user/activity
+2024-10-22T07:50:34: Received user activity data: {
+2024-10-22T07:50:34:   userId: 422053225,
+2024-10-22T07:50:34:   username: 'eugenonyx',
+2024-10-22T07:50:34:   firstName: 'Евгений TIME',
+2024-10-22T07:50:34:   lastName: ''
+2024-10-22T07:50:34: }
+2024-10-22T07:50:34: info: Fetched 59 apps. Sort type: alphabet
+2024-10-22T07:50:34: info: GET /api/apps
+2024-10-22T07:50:34: GET /api/apps
+2024-10-22T07:50:34: info: Fetched 59 apps. Sort type: alphabet
+2024-10-22T07:50:34: info: POST /api/user/settings
+2024-10-22T07:50:34: POST /api/user/settings
+2024-10-22T07:56:01: info: GET /api/apps
+2024-10-22T07:56:01: GET /api/apps
+2024-10-22T07:56:01: info: GET /api/user/settings/422053225
+2024-10-22T07:56:01: GET /api/user/settings/422053225
+2024-10-22T07:56:01: info: Fetched 59 apps. Sort type: alphabet
+2024-10-22T07:56:01: info: POST /api/user/activity
+2024-10-22T07:56:01: POST /api/user/activity
+2024-10-22T07:56:01: Received user activity data: {
+2024-10-22T07:56:01:   userId: 422053225,
+2024-10-22T07:56:01:   username: 'eugenonyx',
+2024-10-22T07:56:01:   firstName: 'Евгений TIME',
+2024-10-22T07:56:01:   lastName: ''
+2024-10-22T07:56:01: }
+2024-10-22T07:56:01: info: POST /api/user/settings
+2024-10-22T07:56:01: POST /api/user/settings
+2024-10-22T07:56:01: info: GET /api/apps
+2024-10-22T07:56:01: GET /api/apps
+2024-10-22T07:56:01: info: Fetched 59 apps. Sort type: alphabet
+2024-10-22T07:56:01: info: POST /api/user/settings
+2024-10-22T07:56:01: POST /api/user/settings
+2024-10-22T07:56:05: info: GET /api/user/settings/422053225
+2024-10-22T07:56:05: GET /api/user/settings/422053225
+2024-10-22T07:56:05: info: POST /api/user/settings
+2024-10-22T07:56:05: POST /api/user/settings
+2024-10-22T07:56:05: info: GET /api/apps
+2024-10-22T07:56:05: GET /api/apps
+2024-10-22T07:56:05: info: Fetched 59 apps. Sort type: alphabet
+2024-10-22T07:56:05: info: POST /api/user/activity
+2024-10-22T07:56:05: POST /api/user/activity
+2024-10-22T07:56:05: Received user activity data: {
+2024-10-22T07:56:05:   userId: 422053225,
+2024-10-22T07:56:05:   username: 'eugenonyx',
+2024-10-22T07:56:05:   firstName: 'Евгений TIME',
+2024-10-22T07:56:05:   lastName: ''
+2024-10-22T07:56:05: }
+2024-10-22T07:56:05: info: GET /api/apps
+2024-10-22T07:56:05: GET /api/apps
+2024-10-22T07:56:05: info: Fetched 59 apps. Sort type: alphabet
+2024-10-22T07:56:05: info: POST /api/user/settings
+2024-10-22T07:56:05: POST /api/user/settings
+2024-10-22T07:56:05: info: GET /api/favorites/422053225
+2024-10-22T07:56:05: GET /api/favorites/422053225
+2024-10-22T07:56:48: info: POST /api/login
+2024-10-22T07:56:48: POST /api/login
+2024-10-22T07:56:48: info: GET /api/apps
+2024-10-22T07:56:48: GET /api/apps
+2024-10-22T07:56:48: info: Fetched 59 apps. Sort type: alphabet
+2024-10-22T07:56:50: info: GET /api/bot-message
+2024-10-22T07:56:50: GET /api/bot-message
+2024-10-22T09:35:50: info: POST /api/user/settings
+2024-10-22T09:35:50: POST /api/user/settings
+2024-10-22T09:35:50: info: GET /api/user/settings/422053225
+2024-10-22T09:35:50: GET /api/user/settings/422053225
+2024-10-22T09:35:50: info: POST /api/user/activity
+2024-10-22T09:35:50: POST /api/user/activity
+2024-10-22T09:35:50: Received user activity data: {
+2024-10-22T09:35:50:   userId: 422053225,
+2024-10-22T09:35:50:   username: 'eugenonyx',
+2024-10-22T09:35:50:   firstName: 'Евгений TIME',
+2024-10-22T09:35:50:   lastName: ''
+2024-10-22T09:35:50: }
+2024-10-22T09:35:50: info: GET /api/apps
+2024-10-22T09:35:50: GET /api/apps
+2024-10-22T09:35:50: info: Fetched 59 apps. Sort type: alphabet
+2024-10-22T09:35:50: info: GET /api/apps
+2024-10-22T09:35:50: GET /api/apps
+2024-10-22T09:35:50: info: Fetched 59 apps. Sort type: alphabet
+2024-10-22T09:35:50: info: GET /api/favorites/422053225
+2024-10-22T09:35:50: GET /api/favorites/422053225
+2024-10-22T09:35:52: info: POST /api/user/settings
+2024-10-22T09:35:52: POST /api/user/settings
+2024-10-22T09:44:07: info: GET /api/user/settings/422053225
+2024-10-22T09:44:07: GET /api/user/settings/422053225
+2024-10-22T09:44:07: info: POST /api/user/settings
+2024-10-22T09:44:07: POST /api/user/settings
+2024-10-22T09:44:07: info: POST /api/user/activity
+2024-10-22T09:44:07: POST /api/user/activity
+2024-10-22T09:44:07: Received user activity data: {
+2024-10-22T09:44:07:   userId: 422053225,
+2024-10-22T09:44:07:   username: 'eugenonyx',
+2024-10-22T09:44:07:   firstName: 'Евгений TIME',
+2024-10-22T09:44:07:   lastName: ''
+2024-10-22T09:44:07: }
+2024-10-22T09:44:07: info: GET /api/apps
+2024-10-22T09:44:07: GET /api/apps
+2024-10-22T09:44:07: info: Fetched 59 apps. Sort type: alphabet
+2024-10-22T09:44:08: info: POST /api/user/settings
+2024-10-22T09:44:08: POST /api/user/settings
+2024-10-22T09:44:08: info: GET /api/apps
+2024-10-22T09:44:08: GET /api/apps
+2024-10-22T09:44:08: info: Fetched 59 apps. Sort type: alphabet
+2024-10-22T09:44:08: info: GET /api/favorites/422053225
+2024-10-22T09:44:08: GET /api/favorites/422053225
+2024-10-22T09:44:11: info: POST /api/user/settings
+2024-10-22T09:44:11: POST /api/user/settings
+2024-10-22T09:44:12: info: POST /api/user/settings
+2024-10-22T09:44:12: POST /api/user/settings
+2024-10-22T09:44:14: info: POST /api/user/settings
+2024-10-22T09:44:14: POST /api/user/settings
+2024-10-23T05:26:50: info: POST /api/user/settings
+2024-10-23T05:26:50: POST /api/user/settings
+2024-10-23T05:26:50: info: GET /api/user/settings/422053225
+2024-10-23T05:26:50: GET /api/user/settings/422053225
+2024-10-23T05:26:50: info: POST /api/user/activity
+2024-10-23T05:26:50: POST /api/user/activity
+2024-10-23T05:26:50: Received user activity data: {
+2024-10-23T05:26:50:   userId: 422053225,
+2024-10-23T05:26:50:   username: 'eugenonyx',
+2024-10-23T05:26:50:   firstName: 'Евгений TIME',
+2024-10-23T05:26:50:   lastName: ''
+2024-10-23T05:26:50: }
+2024-10-23T05:26:50: info: GET /api/apps
+2024-10-23T05:26:50: GET /api/apps
+2024-10-23T05:26:50: info: Fetched 59 apps. Sort type: alphabet
+2024-10-23T05:26:50: info: GET /api/apps
+2024-10-23T05:26:50: GET /api/apps
+2024-10-23T05:26:50: info: Fetched 59 apps. Sort type: alphabet
+2024-10-23T05:26:55: info: POST /api/user/settings
+2024-10-23T05:26:55: POST /api/user/settings
+2024-10-23T05:27:02: info: POST /api/user/settings
+2024-10-23T05:27:02: POST /api/user/settings
+2024-10-23T07:19:52: info: GET /api/user/settings/422053225
+2024-10-23T07:19:52: GET /api/user/settings/422053225
+2024-10-23T07:19:52: info: POST /api/user/settings
+2024-10-23T07:19:52: POST /api/user/settings
+2024-10-23T07:19:52: info: GET /api/apps
+2024-10-23T07:19:52: GET /api/apps
+2024-10-23T07:19:52: info: Fetched 59 apps. Sort type: alphabet
+2024-10-23T07:19:52: info: POST /api/user/activity
+2024-10-23T07:19:52: POST /api/user/activity
+2024-10-23T07:19:52: Received user activity data: {
+2024-10-23T07:19:52:   userId: 422053225,
+2024-10-23T07:19:52:   username: 'eugenonyx',
+2024-10-23T07:19:52:   firstName: 'Евгений TIME',
+2024-10-23T07:19:52:   lastName: ''
+2024-10-23T07:19:52: }
+2024-10-23T07:19:52: info: GET /api/apps
+2024-10-23T07:19:52: GET /api/apps
+2024-10-23T07:19:52: info: Fetched 59 apps. Sort type: alphabet
+2024-10-23T07:19:52: info: POST /api/user/settings
+2024-10-23T07:19:52: POST /api/user/settings
+2024-10-23T07:19:53: info: GET /api/favorites/422053225
+2024-10-23T07:19:53: GET /api/favorites/422053225
+2024-10-23T08:50:28: info: GET /api/apps
+2024-10-23T08:50:28: GET /api/apps
+2024-10-23T08:50:28: info: Fetched 59 apps. Sort type: alphabet
+2024-10-23T08:50:28: info: GET /api/apps
+2024-10-23T08:50:28: GET /api/apps
+2024-10-23T08:50:28: info: Fetched 59 apps. Sort type: alphabet
+2024-10-23T09:22:39: info: GET /api/user/settings/422053225
+2024-10-23T09:22:39: GET /api/user/settings/422053225
+2024-10-23T09:22:39: info: GET /api/apps
+2024-10-23T09:22:39: GET /api/apps
+2024-10-23T09:22:39: info: POST /api/user/activity
+2024-10-23T09:22:39: POST /api/user/activity
+2024-10-23T09:22:39: Received user activity data: {
+2024-10-23T09:22:39:   userId: 422053225,
+2024-10-23T09:22:39:   username: 'eugenonyx',
+2024-10-23T09:22:39:   firstName: 'Евгений TIME',
+2024-10-23T09:22:39:   lastName: ''
+2024-10-23T09:22:39: }
+2024-10-23T09:22:39: info: Fetched 59 apps. Sort type: alphabet
+2024-10-23T09:22:39: info: POST /api/user/settings
+2024-10-23T09:22:39: POST /api/user/settings
+2024-10-23T09:22:39: info: GET /api/apps
+2024-10-23T09:22:39: GET /api/apps
+2024-10-23T09:22:39: info: Fetched 59 apps. Sort type: alphabet
+2024-10-23T09:22:39: info: POST /api/user/settings
+2024-10-23T09:22:39: POST /api/user/settings
+2024-10-23T09:22:39: info: GET /api/favorites/422053225
+2024-10-23T09:22:39: GET /api/favorites/422053225
+2024-10-23T14:55:37: info: GET /api/user/settings/422053225
+2024-10-23T14:55:37: GET /api/user/settings/422053225
+2024-10-23T14:55:37: info: GET /api/apps
+2024-10-23T14:55:37: GET /api/apps
+2024-10-23T14:55:37: info: POST /api/user/settings
+2024-10-23T14:55:37: POST /api/user/settings
+2024-10-23T14:55:37: info: Fetched 59 apps. Sort type: alphabet
+2024-10-23T14:55:37: info: POST /api/user/activity
+2024-10-23T14:55:37: POST /api/user/activity
+2024-10-23T14:55:37: Received user activity data: {
+2024-10-23T14:55:37:   userId: 422053225,
+2024-10-23T14:55:37:   username: 'eugenonyx',
+2024-10-23T14:55:37:   firstName: 'Евгений TIME',
+2024-10-23T14:55:37:   lastName: ''
+2024-10-23T14:55:37: }
+2024-10-23T14:55:37: info: POST /api/user/settings
+2024-10-23T14:55:37: POST /api/user/settings
+2024-10-23T14:55:38: info: GET /api/apps
+2024-10-23T14:55:38: GET /api/apps
+2024-10-23T14:55:38: info: Fetched 59 apps. Sort type: alphabet
+2024-10-23T14:55:38: info: GET /api/favorites/422053225
+2024-10-23T14:55:38: GET /api/favorites/422053225
+2024-10-23T14:55:40: info: POST /api/user/settings
+2024-10-23T14:55:40: POST /api/user/settings
+2024-10-23T14:55:41: info: POST /api/user/settings
+2024-10-23T14:55:41: POST /api/user/settings
+2024-10-23T15:20:41: info: GET /api/user/settings/422053225
+2024-10-23T15:20:41: GET /api/user/settings/422053225
+2024-10-23T15:20:41: info: GET /api/apps
+2024-10-23T15:20:41: GET /api/apps
+2024-10-23T15:20:41: info: POST /api/user/settings
+2024-10-23T15:20:41: POST /api/user/settings
+2024-10-23T15:20:41: info: Fetched 59 apps. Sort type: alphabet
+2024-10-23T15:20:41: info: POST /api/user/activity
+2024-10-23T15:20:41: POST /api/user/activity
+2024-10-23T15:20:41: Received user activity data: {
+2024-10-23T15:20:41:   userId: 422053225,
+2024-10-23T15:20:41:   username: 'eugenonyx',
+2024-10-23T15:20:41:   firstName: 'Евгений TIME',
+2024-10-23T15:20:41:   lastName: ''
+2024-10-23T15:20:41: }
+2024-10-23T15:20:41: info: POST /api/user/settings
+2024-10-23T15:20:41: POST /api/user/settings
+2024-10-23T15:20:41: info: GET /api/apps
+2024-10-23T15:20:41: GET /api/apps
+2024-10-23T15:20:41: info: Fetched 59 apps. Sort type: alphabet
+2024-10-23T20:17:44: info: POST /api/user/settings
+2024-10-23T20:17:44: POST /api/user/settings
+2024-10-23T20:17:44: info: GET /api/user/settings/422053225
+2024-10-23T20:17:44: GET /api/user/settings/422053225
+2024-10-23T20:17:44: info: GET /api/apps
+2024-10-23T20:17:44: GET /api/apps
+2024-10-23T20:17:44: info: Fetched 59 apps. Sort type: alphabet
+2024-10-23T20:17:45: info: POST /api/user/activity
+2024-10-23T20:17:45: POST /api/user/activity
+2024-10-23T20:17:45: Received user activity data: {
+2024-10-23T20:17:45:   userId: 422053225,
+2024-10-23T20:17:45:   username: 'eugenonyx',
+2024-10-23T20:17:45:   firstName: 'Евгений TIME',
+2024-10-23T20:17:45:   lastName: ''
+2024-10-23T20:17:45: }
+2024-10-23T20:17:45: info: GET /api/apps
+2024-10-23T20:17:45: GET /api/apps
+2024-10-23T20:17:45: info: Fetched 59 apps. Sort type: alphabet
+2024-10-23T22:58:00: info: POST /api/user/settings
+2024-10-23T22:58:00: POST /api/user/settings
+2024-10-23T22:58:00: info: GET /api/user/settings/422053225
+2024-10-23T22:58:00: GET /api/user/settings/422053225
+2024-10-23T22:58:00: info: POST /api/user/activity
+2024-10-23T22:58:00: POST /api/user/activity
+2024-10-23T22:58:00: Received user activity data: {
+2024-10-23T22:58:00:   userId: 422053225,
+2024-10-23T22:58:00:   username: 'eugenonyx',
+2024-10-23T22:58:00:   firstName: 'Евгений TIME',
+2024-10-23T22:58:00:   lastName: ''
+2024-10-23T22:58:00: }
+2024-10-23T22:58:00: info: GET /api/apps
+2024-10-23T22:58:00: GET /api/apps
+2024-10-23T22:58:00: info: Fetched 59 apps. Sort type: alphabet
+2024-10-23T22:58:00: info: GET /api/apps
+2024-10-23T22:58:00: GET /api/apps
+2024-10-23T22:58:00: info: Fetched 59 apps. Sort type: alphabet
+2024-10-23T22:58:04: info: POST /api/user/settings
+2024-10-23T22:58:04: POST /api/user/settings
+2024-10-23T22:58:04: info: POST /api/user/settings
+2024-10-23T22:58:04: POST /api/user/settings
+2024-10-23T23:05:01: info: POST /api/user/activity
+2024-10-23T23:05:01: POST /api/user/activity
+2024-10-23T23:05:01: Received user activity data: {
+2024-10-23T23:05:01:   userId: 422053225,
+2024-10-23T23:05:01:   username: 'eugenonyx',
+2024-10-23T23:05:01:   firstName: 'Евгений TIME',
+2024-10-23T23:05:01:   lastName: ''
+2024-10-23T23:05:01: }
+2024-10-23T23:09:01: info: POST /api/user/settings
+2024-10-23T23:09:01: POST /api/user/settings
+2024-10-23T23:09:02: info: POST /api/user/settings
+2024-10-23T23:09:02: POST /api/user/settings
+2024-10-23T23:09:03: info: POST /api/user/settings
+2024-10-23T23:09:03: POST /api/user/settings
+2024-10-23T23:09:04: info: POST /api/user/settings
+2024-10-23T23:09:04: POST /api/user/settings
+2024-10-23T23:09:04: info: POST /api/user/settings
+2024-10-23T23:09:04: POST /api/user/settings
+2024-10-24T19:25:20: info: GET /api/user/settings/422053225
+2024-10-24T19:25:20: GET /api/user/settings/422053225
+2024-10-24T19:25:20: info: POST /api/user/settings
+2024-10-24T19:25:20: POST /api/user/settings
+2024-10-24T19:25:20: info: GET /api/apps
+2024-10-24T19:25:20: GET /api/apps
+2024-10-24T19:25:20: info: Fetched 59 apps. Sort type: alphabet
+2024-10-24T19:25:20: info: POST /api/user/activity
+2024-10-24T19:25:20: POST /api/user/activity
+2024-10-24T19:25:20: Received user activity data: {
+2024-10-24T19:25:20:   userId: 422053225,
+2024-10-24T19:25:20:   username: 'eugenonyx',
+2024-10-24T19:25:20:   firstName: 'Евгений TIME',
+2024-10-24T19:25:20:   lastName: ''
+2024-10-24T19:25:20: }
+2024-10-24T19:25:20: info: GET /api/apps
+2024-10-24T19:25:20: GET /api/apps
+2024-10-24T19:25:20: info: Fetched 59 apps. Sort type: alphabet
+2024-10-24T19:25:20: info: POST /api/user/settings
+2024-10-24T19:25:20: POST /api/user/settings
+2024-10-25T19:09:16: info: GET /api/user/settings/422053225
+2024-10-25T19:09:16: GET /api/user/settings/422053225
+2024-10-25T19:09:16: info: POST /api/user/settings
+2024-10-25T19:09:16: POST /api/user/settings
+2024-10-25T19:09:16: info: GET /api/apps
+2024-10-25T19:09:16: GET /api/apps
+2024-10-25T19:09:16: info: POST /api/user/activity
+2024-10-25T19:09:16: POST /api/user/activity
+2024-10-25T19:09:16: Received user activity data: {
+2024-10-25T19:09:16:   userId: 422053225,
+2024-10-25T19:09:16:   username: 'eugenonyx',
+2024-10-25T19:09:16:   firstName: 'Евгений TIME',
+2024-10-25T19:09:16:   lastName: ''
+2024-10-25T19:09:16: }
+2024-10-25T19:09:16: info: Fetched 59 apps. Sort type: alphabet
+2024-10-25T19:09:16: info: POST /api/user/settings
+2024-10-25T19:09:16: POST /api/user/settings
+2024-10-25T19:09:16: info: GET /api/favorites/422053225
+2024-10-25T19:09:16: GET /api/favorites/422053225
+2024-10-25T19:09:20: info: GET /api/apps
+2024-10-25T19:09:20: GET /api/apps
+2024-10-25T19:09:20: info: POST /api/user/settings
+2024-10-25T19:09:20: POST /api/user/settings
+2024-10-25T19:09:20: info: Fetched 59 apps. Sort type: alphabet
+2024-10-25T19:09:20: info: POST /api/user/activity
+2024-10-25T19:09:20: POST /api/user/activity
+2024-10-25T19:09:20: Received user activity data: {
+2024-10-25T19:09:20:   userId: 422053225,
+2024-10-25T19:09:20:   username: 'eugenonyx',
+2024-10-25T19:09:20:   firstName: 'Евгений TIME',
+2024-10-25T19:09:20:   lastName: ''
+2024-10-25T19:09:20: }
+2024-10-25T19:09:20: info: GET /api/user/settings/422053225
+2024-10-25T19:09:20: GET /api/user/settings/422053225
+2024-10-25T19:09:20: info: GET /api/apps
+2024-10-25T19:09:20: GET /api/apps
+2024-10-25T19:09:20: info: Fetched 59 apps. Sort type: alphabet
+2024-10-26T13:12:14: info: GET /api/config/tsconfig.json
+2024-10-26T13:12:14: GET /api/config/tsconfig.json
+2024-10-26T13:14:22: info: GET /api/config/tsconfig.json
+2024-10-26T13:14:22: GET /api/config/tsconfig.json
+2024-10-27T04:31:44: info: GET /api/user/settings/422053225
+2024-10-27T04:31:44: GET /api/user/settings/422053225
+2024-10-27T04:31:44: info: POST /api/user/settings
+2024-10-27T04:31:44: POST /api/user/settings
+2024-10-27T04:31:44: info: GET /api/apps
+2024-10-27T04:31:44: GET /api/apps
+2024-10-27T04:31:44: info: POST /api/user/activity
+2024-10-27T04:31:44: POST /api/user/activity
+2024-10-27T04:31:44: Received user activity data: {
+2024-10-27T04:31:44:   userId: 422053225,
+2024-10-27T04:31:44:   username: 'eugenonyx',
+2024-10-27T04:31:44:   firstName: 'Евгений TIME',
+2024-10-27T04:31:44:   lastName: ''
+2024-10-27T04:31:44: }
+2024-10-27T04:31:44: info: Fetched 59 apps. Sort type: alphabet
+2024-10-27T04:31:44: info: GET /api/apps
+2024-10-27T04:31:44: GET /api/apps
+2024-10-27T04:31:44: info: Fetched 59 apps. Sort type: alphabet
+2024-10-27T04:31:44: info: GET /api/favorites/422053225
+2024-10-27T04:31:44: GET /api/favorites/422053225
+2024-10-27T04:31:46: info: POST /api/user/settings
+2024-10-27T04:31:46: POST /api/user/settings
+2024-10-27T04:31:46: info: POST /api/user/settings
+2024-10-27T04:31:46: POST /api/user/settings
+2024-10-27T04:31:49: info: GET /api/user/settings/422053225
+2024-10-27T04:31:49: GET /api/user/settings/422053225
+2024-10-27T04:31:49: info: POST /api/user/settings
+2024-10-27T04:31:49: POST /api/user/settings
+2024-10-27T04:31:49: info: GET /api/apps
+2024-10-27T04:31:49: GET /api/apps
+2024-10-27T04:31:49: info: Fetched 59 apps. Sort type: alphabet
+2024-10-27T04:31:49: info: POST /api/user/activity
+2024-10-27T04:31:49: POST /api/user/activity
+2024-10-27T04:31:49: Received user activity data: {
+2024-10-27T04:31:49:   userId: 422053225,
+2024-10-27T04:31:49:   username: 'eugenonyx',
+2024-10-27T04:31:49:   firstName: 'Евгений TIME',
+2024-10-27T04:31:49:   lastName: ''
+2024-10-27T04:31:49: }
+2024-10-27T04:31:49: info: GET /api/apps
+2024-10-27T04:31:49: GET /api/apps
+2024-10-27T04:31:49: info: Fetched 59 apps. Sort type: alphabet
+2024-10-27T04:31:49: info: POST /api/user/settings
+2024-10-27T04:31:49: POST /api/user/settings
+2024-10-27T04:32:04: info: POST /api/user/settings
+2024-10-27T04:32:04: POST /api/user/settings
+2024-10-27T04:32:05: info: POST /api/user/settings
+2024-10-27T04:32:05: POST /api/user/settings
+2024-10-27T04:32:06: info: POST /api/user/settings
+2024-10-27T04:32:06: POST /api/user/settings
+2024-10-27T04:32:06: info: POST /api/user/settings
+2024-10-27T04:32:06: POST /api/user/settings
+2024-10-27T06:39:16: Server running on port 5000
+2024-10-27T06:39:16: Connected to MongoDB
+2024-10-27T06:39:16: Admin password hashed successfully
+2024-10-27T06:39:29: info: GET /api/apps
+2024-10-27T06:39:29: GET /api/apps
+2024-10-27T06:39:29: info: GET /api/user/settings/422053225
+2024-10-27T06:39:29: GET /api/user/settings/422053225
+2024-10-27T06:39:29: info: Fetched 59 apps. Sort type: alphabet
+2024-10-27T06:39:29: info: POST /api/user/settings
+2024-10-27T06:39:29: POST /api/user/settings
+2024-10-27T06:39:29: info: POST /api/user/activity
+2024-10-27T06:39:29: POST /api/user/activity
+2024-10-27T06:39:29: Received user activity data: {
+2024-10-27T06:39:29:   userId: 422053225,
+2024-10-27T06:39:29:   username: 'eugenonyx',
+2024-10-27T06:39:29:   firstName: 'Евгений TIME',
+2024-10-27T06:39:29:   lastName: ''
+2024-10-27T06:39:29: }
+2024-10-27T06:39:29: info: GET /api/apps
+2024-10-27T06:39:29: GET /api/apps
+2024-10-27T06:39:29: info: Fetched 59 apps. Sort type: alphabet
+2024-10-27T06:39:30: info: GET /api/favorites/422053225
+2024-10-27T06:39:30: GET /api/favorites/422053225
+2024-10-27T06:39:30: info: POST /api/user/settings
+2024-10-27T06:39:30: POST /api/user/settings
+2024-10-27T06:39:41: info: GET /api/user/settings/6997862096
+2024-10-27T06:39:41: GET /api/user/settings/6997862096
+2024-10-27T06:39:41: info: GET /api/apps
+2024-10-27T06:39:41: GET /api/apps
+2024-10-27T06:39:41: info: Fetched 59 apps. Sort type: alphabet
+2024-10-27T06:39:41: info: POST /api/user/activity
+2024-10-27T06:39:41: POST /api/user/activity
+2024-10-27T06:39:41: Received user activity data: {
+2024-10-27T06:39:41:   userId: 6997862096,
+2024-10-27T06:39:41:   username: 'diamondxton',
+2024-10-27T06:39:41:   firstName: 'Sleepton',
+2024-10-27T06:39:41:   lastName: ''
+2024-10-27T06:39:41: }
+2024-10-27T06:39:41: info: POST /api/user/settings
+2024-10-27T06:39:41: POST /api/user/settings
+2024-10-27T06:39:41: info: GET /api/apps
+2024-10-27T06:39:41: GET /api/apps
+2024-10-27T06:39:41: info: Fetched 59 apps. Sort type: alphabet
+2024-10-27T06:39:41: info: POST /api/user/settings
+2024-10-27T06:39:41: POST /api/user/settings
+2024-10-27T06:39:42: info: GET /api/favorites/6997862096
+2024-10-27T06:39:42: GET /api/favorites/6997862096
+2024-10-27T06:44:09: info: GET /api/user/settings/422053225
+2024-10-27T06:44:09: GET /api/user/settings/422053225
+2024-10-27T06:44:09: info: GET /api/apps
+2024-10-27T06:44:09: GET /api/apps
+2024-10-27T06:44:09: info: Fetched 59 apps. Sort type: alphabet
+2024-10-27T06:44:09: info: POST /api/user/activity
+2024-10-27T06:44:09: POST /api/user/activity
+2024-10-27T06:44:09: Received user activity data: {
+2024-10-27T06:44:09:   userId: 422053225,
+2024-10-27T06:44:09:   username: 'eugenonyx',
+2024-10-27T06:44:09:   firstName: 'Евгений TIME',
+2024-10-27T06:44:09:   lastName: ''
+2024-10-27T06:44:09: }
+2024-10-27T06:44:09: info: POST /api/user/settings
+2024-10-27T06:44:09: POST /api/user/settings
+2024-10-27T06:44:09: info: GET /api/apps
+2024-10-27T06:44:09: GET /api/apps
+2024-10-27T06:44:09: info: Fetched 59 apps. Sort type: alphabet
+2024-10-27T06:44:09: info: POST /api/user/settings
+2024-10-27T06:44:09: POST /api/user/settings
+2024-10-27T06:44:09: info: GET /api/favorites/422053225
+2024-10-27T06:44:09: GET /api/favorites/422053225
+2024-10-27T06:44:32: info: GET /api/user/settings/7142408548
+2024-10-27T06:44:32: GET /api/user/settings/7142408548
+2024-10-27T06:44:32: info: GET /api/apps
+2024-10-27T06:44:32: GET /api/apps
+2024-10-27T06:44:32: info: POST /api/user/activity
+2024-10-27T06:44:32: POST /api/user/activity
+2024-10-27T06:44:32: Received user activity data: {
+2024-10-27T06:44:32:   userId: 7142408548,
+2024-10-27T06:44:32:   username: 'notsensei',
+2024-10-27T06:44:32:   firstName: 'TIME',
+2024-10-27T06:44:32:   lastName: 'Sensei'
+2024-10-27T06:44:32: }
+2024-10-27T06:44:32: info: Fetched 59 apps. Sort type: alphabet
+2024-10-27T06:44:32: info: POST /api/user/settings
+2024-10-27T06:44:32: POST /api/user/settings
+2024-10-27T06:44:32: info: GET /api/apps
+2024-10-27T06:44:32: GET /api/apps
+2024-10-27T06:44:32: info: Fetched 59 apps. Sort type: alphabet
+2024-10-27T06:44:32: info: POST /api/user/settings
+2024-10-27T06:44:32: POST /api/user/settings
+2024-10-27T06:44:33: info: GET /api/favorites/7142408548
+2024-10-27T06:44:33: GET /api/favorites/7142408548
+2024-10-27T06:44:47: info: GET /api/user/settings/7142408548
+2024-10-27T06:44:47: GET /api/user/settings/7142408548
+2024-10-27T06:44:47: info: GET /api/apps
+2024-10-27T06:44:47: GET /api/apps
+2024-10-27T06:44:47: info: Fetched 59 apps. Sort type: alphabet
+2024-10-27T06:44:47: info: POST /api/user/settings
+2024-10-27T06:44:47: POST /api/user/settings
+2024-10-27T06:44:47: info: POST /api/user/activity
+2024-10-27T06:44:47: POST /api/user/activity
+2024-10-27T06:44:47: Received user activity data: {
+2024-10-27T06:44:47:   userId: 7142408548,
+2024-10-27T06:44:47:   username: 'notsensei',
+2024-10-27T06:44:47:   firstName: 'TIME',
+2024-10-27T06:44:47:   lastName: 'Sensei'
+2024-10-27T06:44:47: }
+2024-10-27T06:44:47: info: GET /api/apps
+2024-10-27T06:44:47: GET /api/apps
+2024-10-27T06:44:47: info: Fetched 59 apps. Sort type: alphabet
+2024-10-27T06:44:47: info: POST /api/user/settings
+2024-10-27T06:44:47: POST /api/user/settings
+2024-10-27T06:44:47: info: GET /api/favorites/7142408548
+2024-10-27T06:44:47: GET /api/favorites/7142408548
+2024-10-27T06:45:50: info: GET /api/apps
+2024-10-27T06:45:50: GET /api/apps
+2024-10-27T06:45:50: info: GET /api/user/settings/6997862096
+2024-10-27T06:45:50: GET /api/user/settings/6997862096
+2024-10-27T06:45:50: info: Fetched 59 apps. Sort type: alphabet
+2024-10-27T06:45:50: info: POST /api/user/settings
+2024-10-27T06:45:50: POST /api/user/settings
+2024-10-27T06:45:50: info: POST /api/user/activity
+2024-10-27T06:45:50: POST /api/user/activity
+2024-10-27T06:45:50: Received user activity data: {
+2024-10-27T06:45:50:   userId: 6997862096,
+2024-10-27T06:45:50:   username: 'diamondxton',
+2024-10-27T06:45:50:   firstName: 'Sleepton',
+2024-10-27T06:45:50:   lastName: ''
+2024-10-27T06:45:50: }
+2024-10-27T06:45:50: info: GET /api/apps
+2024-10-27T06:45:50: GET /api/apps
+2024-10-27T06:45:50: info: Fetched 59 apps. Sort type: alphabet
+2024-10-27T06:45:50: info: POST /api/user/settings
+2024-10-27T06:45:50: POST /api/user/settings
+2024-10-27T06:45:50: info: GET /api/favorites/6997862096
+2024-10-27T06:45:50: GET /api/favorites/6997862096
+2024-10-27T06:45:59: info: POST /api/user/settings
+2024-10-27T06:45:59: POST /api/user/settings
+2024-10-27T06:46:01: info: POST /api/user/settings
+2024-10-27T06:46:01: POST /api/user/settings
+2024-10-27T06:46:04: info: GET /api/user/settings/6997862096
+2024-10-27T06:46:04: GET /api/user/settings/6997862096
+2024-10-27T06:46:04: info: GET /api/apps
+2024-10-27T06:46:04: GET /api/apps
+2024-10-27T06:46:04: info: Fetched 59 apps. Sort type: alphabet
+2024-10-27T06:46:04: info: POST /api/user/activity
+2024-10-27T06:46:04: POST /api/user/activity
+2024-10-27T06:46:04: Received user activity data: {
+2024-10-27T06:46:04:   userId: 6997862096,
+2024-10-27T06:46:04:   username: 'diamondxton',
+2024-10-27T06:46:04:   firstName: 'Sleepton',
+2024-10-27T06:46:04:   lastName: ''
+2024-10-27T06:46:04: }
+2024-10-27T06:46:04: info: POST /api/user/settings
+2024-10-27T06:46:04: POST /api/user/settings
+2024-10-27T06:46:04: info: GET /api/apps
+2024-10-27T06:46:04: GET /api/apps
+2024-10-27T06:46:04: info: Fetched 59 apps. Sort type: alphabet
+2024-10-27T06:46:04: info: GET /api/favorites/6997862096
+2024-10-27T06:46:04: GET /api/favorites/6997862096
+2024-10-27T06:46:08: info: GET /api/user/settings/6997862096
+2024-10-27T06:46:08: GET /api/user/settings/6997862096
+2024-10-27T06:46:08: info: GET /api/apps
+2024-10-27T06:46:08: GET /api/apps
+2024-10-27T06:46:08: info: Fetched 59 apps. Sort type: alphabet
+2024-10-27T06:46:08: info: POST /api/user/settings
+2024-10-27T06:46:08: POST /api/user/settings
+2024-10-27T06:46:08: info: POST /api/user/activity
+2024-10-27T06:46:08: POST /api/user/activity
+2024-10-27T06:46:08: Received user activity data: {
+2024-10-27T06:46:08:   userId: 6997862096,
+2024-10-27T06:46:08:   username: 'diamondxton',
+2024-10-27T06:46:08:   firstName: 'Sleepton',
+2024-10-27T06:46:08:   lastName: ''
+2024-10-27T06:46:08: }
+2024-10-27T06:46:08: info: GET /api/apps
+2024-10-27T06:46:08: GET /api/apps
+2024-10-27T06:46:08: info: Fetched 59 apps. Sort type: alphabet
+2024-10-27T06:46:08: info: GET /api/favorites/6997862096
+2024-10-27T06:46:08: GET /api/favorites/6997862096
+2024-10-27T06:46:19: info: GET /api/user/settings/422053225
+2024-10-27T06:46:19: GET /api/user/settings/422053225
+2024-10-27T06:46:19: info: GET /api/apps
+2024-10-27T06:46:19: GET /api/apps
+2024-10-27T06:46:19: info: Fetched 59 apps. Sort type: alphabet
+2024-10-27T06:46:19: info: POST /api/user/settings
+2024-10-27T06:46:19: POST /api/user/settings
+2024-10-27T06:46:19: info: POST /api/user/activity
+2024-10-27T06:46:19: POST /api/user/activity
+2024-10-27T06:46:19: Received user activity data: {
+2024-10-27T06:46:19:   userId: 422053225,
+2024-10-27T06:46:19:   username: 'eugenonyx',
+2024-10-27T06:46:19:   firstName: 'Евгений TIME',
+2024-10-27T06:46:19:   lastName: ''
+2024-10-27T06:46:19: }
+2024-10-27T06:46:19: info: GET /api/apps
+2024-10-27T06:46:19: GET /api/apps
+2024-10-27T06:46:19: info: Fetched 59 apps. Sort type: alphabet
+2024-10-27T06:46:19: info: POST /api/user/settings
+2024-10-27T06:46:19: POST /api/user/settings
+2024-10-27T06:46:19: info: GET /api/favorites/422053225
+2024-10-27T06:46:19: GET /api/favorites/422053225
+2024-10-27T17:23:39: info: GET /api/user/settings/422053225
+2024-10-27T17:23:39: GET /api/user/settings/422053225
+2024-10-27T17:23:39: info: GET /api/apps
+2024-10-27T17:23:39: GET /api/apps
+2024-10-27T17:23:39: info: POST /api/user/settings
+2024-10-27T17:23:39: POST /api/user/settings
+2024-10-27T17:23:39: info: Fetched 59 apps. Sort type: alphabet
+2024-10-27T17:23:39: info: POST /api/user/activity
+2024-10-27T17:23:39: POST /api/user/activity
+2024-10-27T17:23:39: Received user activity data: {
+2024-10-27T17:23:39:   userId: 422053225,
+2024-10-27T17:23:39:   username: 'eugenonyx',
+2024-10-27T17:23:39:   firstName: 'Евгений TIME',
+2024-10-27T17:23:39:   lastName: ''
+2024-10-27T17:23:39: }
+2024-10-27T17:23:39: info: GET /api/apps
+2024-10-27T17:23:39: GET /api/apps
+2024-10-27T17:23:39: info: Fetched 59 apps. Sort type: alphabet
+2024-10-27T17:23:39: info: POST /api/user/settings
+2024-10-27T17:23:39: POST /api/user/settings
+2024-10-27T17:23:39: info: GET /api/favorites/422053225
+2024-10-27T17:23:39: GET /api/favorites/422053225
+2024-10-27T22:06:53: info: GET /api/user/settings/422053225
+2024-10-27T22:06:53: GET /api/user/settings/422053225
+2024-10-27T22:06:53: info: POST /api/user/settings
+2024-10-27T22:06:53: POST /api/user/settings
+2024-10-27T22:06:53: info: GET /api/apps
+2024-10-27T22:06:53: GET /api/apps
+2024-10-27T22:06:53: info: Fetched 59 apps. Sort type: alphabet
+2024-10-27T22:06:53: info: POST /api/user/activity
+2024-10-27T22:06:53: POST /api/user/activity
+2024-10-27T22:06:53: Received user activity data: {
+2024-10-27T22:06:53:   userId: 422053225,
+2024-10-27T22:06:53:   username: 'eugenonyx',
+2024-10-27T22:06:53:   firstName: 'Евгений TIME',
+2024-10-27T22:06:53:   lastName: ''
+2024-10-27T22:06:53: }
+2024-10-27T22:06:53: info: POST /api/user/settings
+2024-10-27T22:06:53: POST /api/user/settings
+2024-10-27T22:06:53: info: GET /api/apps
+2024-10-27T22:06:53: GET /api/apps
+2024-10-27T22:06:53: info: Fetched 59 apps. Sort type: alphabet
+2024-10-27T22:06:53: info: GET /api/favorites/422053225
+2024-10-27T22:06:53: GET /api/favorites/422053225
+2024-10-29T11:10:55: info: GET /api/user/settings/422053225
+2024-10-29T11:10:55: GET /api/user/settings/422053225
+2024-10-29T11:10:55: info: POST /api/user/settings
+2024-10-29T11:10:55: POST /api/user/settings
+2024-10-29T11:10:55: info: GET /api/apps
+2024-10-29T11:10:55: GET /api/apps
+2024-10-29T11:10:55: info: Fetched 59 apps. Sort type: alphabet
+2024-10-29T11:10:55: info: POST /api/user/activity
+2024-10-29T11:10:55: POST /api/user/activity
+2024-10-29T11:10:55: Received user activity data: {
+2024-10-29T11:10:55:   userId: 422053225,
+2024-10-29T11:10:55:   username: 'eugenonyx',
+2024-10-29T11:10:55:   firstName: 'Евгений TIME',
+2024-10-29T11:10:55:   lastName: ''
+2024-10-29T11:10:55: }
+2024-10-29T11:10:55: info: GET /api/apps
+2024-10-29T11:10:55: GET /api/apps
+2024-10-29T11:10:55: info: Fetched 59 apps. Sort type: alphabet
+2024-10-29T11:10:55: info: POST /api/user/settings
+2024-10-29T11:10:55: POST /api/user/settings
+2024-10-30T05:59:07: info: GET /api/v1/settings
+2024-10-30T05:59:07: GET /api/v1/settings
+2024-10-30T05:59:22: info: POST /api/content/
+2024-10-30T05:59:22: POST /api/content/
+2024-10-30T05:59:24: info: POST /api/content/
+2024-10-30T05:59:24: POST /api/content/
+2024-10-30T05:59:29: info: GET /api/v2/cmdb/vpn.ssl/settings
+2024-10-30T05:59:29: GET /api/v2/cmdb/vpn.ssl/settings
+2024-10-30T05:59:29: info: GET /api/snapshots/:key
+2024-10-30T05:59:29: GET /api/snapshots/:key
+2024-10-30T05:59:30: info: GET /api/snapshots/:key
+2024-10-30T05:59:30: GET /api/snapshots/:key
+2024-10-30T05:59:32: info: GET /api/snapshots/:key
+2024-10-30T05:59:32: GET /api/snapshots/:key
+2024-10-30T05:59:32: info: GET /api/v2.0/search?q=/
+2024-10-30T05:59:32: GET /api/v2.0/search
+2024-10-30T05:59:34: info: GET /api/v2.0/search?q=/
+2024-10-30T05:59:34: GET /api/v2.0/search
+2024-10-30T05:59:37: info: GET /api/session/properties
+2024-10-30T05:59:37: GET /api/session/properties
+2024-10-30T05:59:37: info: GET /api/v1;v1%2fusers%2flogin/events/subscriptions/validation/condition/1
+2024-10-30T05:59:37: GET /api/v1;v1%2fusers%2flogin/events/subscriptions/validation/condition/1
+2024-10-30T05:59:39: info: GET /api/session/properties
+2024-10-30T05:59:39: GET /api/session/properties
+2024-10-30T05:59:39: info: GET /api/v1;v1%2fusers%2flogin/events/subscriptions/validation/condition/1
+2024-10-30T05:59:39: GET /api/v1;v1%2fusers%2flogin/events/subscriptions/validation/condition/1
+2024-10-30T05:59:40: info: GET /api/session/properties
+2024-10-30T05:59:40: GET /api/session/properties
+2024-10-30T05:59:40: info: GET /api/v1/label/__name__/values
+2024-10-30T05:59:40: GET /api/v1/label/__name__/values
+2024-10-30T05:59:40: info: GET /api/geojson?url=file:///etc/shells
+2024-10-30T05:59:40: GET /api/geojson
+2024-10-30T05:59:41: info: GET /api/5/nginx
+2024-10-30T05:59:41: GET /api/5/nginx
+2024-10-30T05:59:41: info: GET /api/6/nginx
+2024-10-30T05:59:41: GET /api/6/nginx
+2024-10-30T05:59:41: info: GET /api/4/nginx
+2024-10-30T05:59:41: GET /api/4/nginx
+2024-10-30T05:59:44: info: GET /api/6/nginx
+2024-10-30T05:59:44: GET /api/6/nginx
+2024-10-30T05:59:44: info: GET /api/5/nginx
+2024-10-30T05:59:44: GET /api/5/nginx
+2024-10-30T05:59:45: info: GET /api/auth/cognito/callback?access_token=test&id_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJub25lIn0.eyJjb2duaXRvOnVzZXJuYW1lIjoiYWN4dGVzdCIsImVtYWlsIjoiYWN4dGVzdEBleGFtcGxlLmNvbSJ9.
+2024-10-30T05:59:45: GET /api/auth/cognito/callback
+2024-10-30T05:59:53: info: GET /api/auth/cognito/callback?access_token=test&id_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJub25lIn0.eyJjb2duaXRvOnVzZXJuYW1lIjoiYWN4dGVzdCIsImVtYWlsIjoiYWN4dGVzdEBleGFtcGxlLmNvbSJ9.
+2024-10-30T05:59:53: GET /api/auth/cognito/callback
+2024-10-30T05:59:55: info: GET /api/auth/cognito/callback?access_token=test&id_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJub25lIn0.eyJjb2duaXRvOnVzZXJuYW1lIjoiYWN4dGVzdCIsImVtYWlsIjoiYWN4dGVzdEBleGFtcGxlLmNvbSJ9.
+2024-10-30T05:59:55: GET /api/auth/cognito/callback
+2024-10-31T07:03:33: info: GET /api/apps
+2024-10-31T07:03:33: GET /api/apps
+2024-10-31T07:03:33: info: Fetched 59 apps. Sort type: alphabet
+2024-10-31T07:03:33: info: GET /api/apps
+2024-10-31T07:03:33: GET /api/apps
+2024-10-31T07:03:33: info: Fetched 59 apps. Sort type: alphabet
+2024-11-01T08:49:25: info: GET /api/user/settings/6623854940
+2024-11-01T08:49:25: GET /api/user/settings/6623854940
+2024-11-01T08:49:25: info: GET /api/apps
+2024-11-01T08:49:25: GET /api/apps
+2024-11-01T08:49:25: info: Fetched 59 apps. Sort type: alphabet
+2024-11-01T08:49:25: info: POST /api/user/settings
+2024-11-01T08:49:25: POST /api/user/settings
+2024-11-01T08:49:25: info: POST /api/user/activity
+2024-11-01T08:49:25: POST /api/user/activity
+2024-11-01T08:49:25: Received user activity data: { userId: 6623854940, firstName: 'Умарова', lastName: 'Гулчехра' }
+2024-11-01T08:49:25: info: GET /api/apps
+2024-11-01T08:49:25: GET /api/apps
+2024-11-01T08:49:25: info: Fetched 59 apps. Sort type: alphabet
+2024-11-01T14:21:41: info: GET /api/v1/guest/comm/config
+2024-11-01T14:21:41: GET /api/v1/guest/comm/config
+2024-11-01T16:07:44: info: GET /api/user/settings/422053225
+2024-11-01T16:07:44: GET /api/user/settings/422053225
+2024-11-01T16:07:44: info: POST /api/user/settings
+2024-11-01T16:07:44: POST /api/user/settings
+2024-11-01T16:07:44: info: GET /api/apps
+2024-11-01T16:07:44: GET /api/apps
+2024-11-01T16:07:44: info: Fetched 59 apps. Sort type: alphabet
+2024-11-01T16:07:44: info: POST /api/user/activity
+2024-11-01T16:07:44: POST /api/user/activity
+2024-11-01T16:07:44: Received user activity data: {
+2024-11-01T16:07:44:   userId: 422053225,
+2024-11-01T16:07:44:   username: 'eugenonyx',
+2024-11-01T16:07:44:   firstName: 'Евгений TIME',
+2024-11-01T16:07:44:   lastName: ''
+2024-11-01T16:07:44: }
+2024-11-01T16:07:44: info: POST /api/user/settings
+2024-11-01T16:07:44: POST /api/user/settings
+2024-11-01T16:07:45: info: GET /api/favorites/422053225
+2024-11-01T16:07:45: GET /api/favorites/422053225
+2024-11-01T16:07:47: info: POST /api/user/settings
+2024-11-01T16:07:47: POST /api/user/settings
+2024-11-01T16:07:47: info: GET /api/apps
+2024-11-01T16:07:47: GET /api/apps
+2024-11-01T16:07:47: info: GET /api/user/settings/422053225
+2024-11-01T16:07:47: GET /api/user/settings/422053225
+2024-11-01T16:07:47: info: Fetched 59 apps. Sort type: alphabet
+2024-11-01T16:07:47: info: POST /api/user/activity
+2024-11-01T16:07:47: POST /api/user/activity
+2024-11-01T16:07:47: Received user activity data: {
+2024-11-01T16:07:47:   userId: 422053225,
+2024-11-01T16:07:47:   username: 'eugenonyx',
+2024-11-01T16:07:47:   firstName: 'Евгений TIME',
+2024-11-01T16:07:47:   lastName: ''
+2024-11-01T16:07:47: }
+2024-11-01T16:07:47: info: GET /api/apps
+2024-11-01T16:07:47: GET /api/apps
+2024-11-01T16:07:47: info: Fetched 59 apps. Sort type: alphabet
+2024-11-01T16:08:00: info: GET /api/user/settings/422053225
+2024-11-01T16:08:00: GET /api/user/settings/422053225
+2024-11-01T16:08:00: info: GET /api/apps
+2024-11-01T16:08:00: GET /api/apps
+2024-11-01T16:08:00: info: Fetched 59 apps. Sort type: alphabet
+2024-11-01T16:08:00: info: POST /api/user/settings
+2024-11-01T16:08:00: POST /api/user/settings
+2024-11-01T16:08:00: info: POST /api/user/activity
+2024-11-01T16:08:00: POST /api/user/activity
+2024-11-01T16:08:00: Received user activity data: {
+2024-11-01T16:08:00:   userId: 422053225,
+2024-11-01T16:08:00:   username: 'eugenonyx',
+2024-11-01T16:08:00:   firstName: 'Евгений TIME',
+2024-11-01T16:08:00:   lastName: ''
+2024-11-01T16:08:00: }
+2024-11-01T16:08:00: info: GET /api/apps
+2024-11-01T16:08:00: GET /api/apps
+2024-11-01T16:08:00: info: Fetched 59 apps. Sort type: alphabet
+2024-11-01T16:08:06: info: POST /api/user/settings
+2024-11-01T16:08:06: POST /api/user/settings
+2024-11-01T16:08:07: info: POST /api/user/settings
+2024-11-01T16:08:07: POST /api/user/settings
+2024-11-01T17:04:35: info: GET /api/apps
+2024-11-01T17:04:35: GET /api/apps
+2024-11-01T17:04:35: info: Fetched 59 apps. Sort type: alphabet
+2024-11-01T17:04:35: info: GET /api/apps
+2024-11-01T17:04:35: GET /api/apps
+2024-11-01T17:04:35: info: Fetched 59 apps. Sort type: alphabet
+2024-11-01T19:26:23: info: POST /api/user/settings
+2024-11-01T19:26:23: POST /api/user/settings
+2024-11-01T19:26:23: info: GET /api/user/settings/422053225
+2024-11-01T19:26:23: GET /api/user/settings/422053225
+2024-11-01T19:26:23: info: GET /api/apps
+2024-11-01T19:26:23: GET /api/apps
+2024-11-01T19:26:23: info: Fetched 59 apps. Sort type: alphabet
+2024-11-01T19:26:23: info: POST /api/user/activity
+2024-11-01T19:26:23: POST /api/user/activity
+2024-11-01T19:26:23: Received user activity data: {
+2024-11-01T19:26:23:   userId: 422053225,
+2024-11-01T19:26:23:   username: 'eugenonyx',
+2024-11-01T19:26:23:   firstName: 'Евгений TIME',
+2024-11-01T19:26:23:   lastName: ''
+2024-11-01T19:26:23: }
+2024-11-01T19:26:23: info: GET /api/apps
+2024-11-01T19:26:23: GET /api/apps
+2024-11-01T19:26:23: info: Fetched 59 apps. Sort type: alphabet
+2024-11-01T19:26:42: info: POST /api/user/settings
+2024-11-01T19:26:42: POST /api/user/settings
+2024-11-01T19:26:43: info: POST /api/user/settings
+2024-11-01T19:26:43: POST /api/user/settings
+2024-11-01T19:28:06: info: POST /api/login
+2024-11-01T19:28:06: POST /api/login
+2024-11-01T19:28:06: info: GET /api/apps
+2024-11-01T19:28:06: GET /api/apps
+2024-11-01T19:28:06: info: Fetched 59 apps. Sort type: alphabet
+2024-11-01T19:28:46: info: GET /api/apps
+2024-11-01T19:28:46: GET /api/apps
+2024-11-01T19:28:46: info: Fetched 59 apps. Sort type: alphabet
+2024-11-01T19:29:08: info: POST /api/upload
+2024-11-01T19:29:08: POST /api/upload
+2024-11-01T19:29:09: info: POST /api/apps
+2024-11-01T19:29:09: POST /api/apps
+2024-11-01T19:29:10: info: POST /api/upload
+2024-11-01T19:29:10: POST /api/upload
+2024-11-01T19:29:10: info: POST /api/apps
+2024-11-01T19:29:10: POST /api/apps
+2024-11-01T19:29:10: info: GET /api/apps
+2024-11-01T19:29:10: GET /api/apps
+2024-11-01T19:29:10: info: Fetched 60 apps. Sort type: alphabet
+2024-11-01T19:29:21: info: GET /api/apps
+2024-11-01T19:29:21: GET /api/apps
+2024-11-01T19:29:21: info: Fetched 60 apps. Sort type: alphabet
+2024-11-01T19:29:21: info: GET /api/user/settings/422053225
+2024-11-01T19:29:21: GET /api/user/settings/422053225
+2024-11-01T19:29:21: info: POST /api/user/settings
+2024-11-01T19:29:21: POST /api/user/settings
+2024-11-01T19:29:21: info: POST /api/user/activity
+2024-11-01T19:29:21: POST /api/user/activity
+2024-11-01T19:29:21: Received user activity data: {
+2024-11-01T19:29:21:   userId: 422053225,
+2024-11-01T19:29:21:   username: 'eugenonyx',
+2024-11-01T19:29:21:   firstName: 'Евгений TIME',
+2024-11-01T19:29:21:   lastName: ''
+2024-11-01T19:29:21: }
+2024-11-01T19:29:21: info: GET /api/apps
+2024-11-01T19:29:21: GET /api/apps
+2024-11-01T19:29:21: info: Fetched 60 apps. Sort type: alphabet
+2024-11-01T19:29:21: info: POST /api/user/settings
+2024-11-01T19:29:21: POST /api/user/settings
+2024-11-01T19:29:21: info: GET /api/favorites/422053225
+2024-11-01T19:29:21: GET /api/favorites/422053225
+2024-11-01T19:29:28: info: POST /api/user/settings
+2024-11-01T19:29:28: POST /api/user/settings
+2024-11-01T19:29:32: info: POST /api/user/settings
+2024-11-01T19:29:32: POST /api/user/settings
+2024-11-01T19:31:32: info: POST /api/user/settings
+2024-11-01T19:31:32: POST /api/user/settings
+2024-11-01T19:31:34: info: POST /api/user/settings
+2024-11-01T19:31:34: POST /api/user/settings
+2024-11-01T20:35:56: info: GET /api/user/settings/422053225
+2024-11-01T20:35:56: GET /api/user/settings/422053225
+2024-11-01T20:35:56: info: POST /api/user/settings
+2024-11-01T20:35:56: POST /api/user/settings
+2024-11-01T20:35:56: info: POST /api/user/activity
+2024-11-01T20:35:56: POST /api/user/activity
+2024-11-01T20:35:56: Received user activity data: {
+2024-11-01T20:35:56:   userId: 422053225,
+2024-11-01T20:35:56:   username: 'eugenonyx',
+2024-11-01T20:35:56:   firstName: 'Евгений TIME',
+2024-11-01T20:35:56:   lastName: ''
+2024-11-01T20:35:56: }
+2024-11-01T20:35:56: info: GET /api/apps
+2024-11-01T20:35:56: GET /api/apps
+2024-11-01T20:35:56: info: Fetched 60 apps. Sort type: alphabet
+2024-11-01T20:35:56: info: GET /api/apps
+2024-11-01T20:35:56: GET /api/apps
+2024-11-01T20:35:56: info: Fetched 60 apps. Sort type: alphabet
+2024-11-01T20:35:56: info: POST /api/user/settings
+2024-11-01T20:35:56: POST /api/user/settings
+2024-11-01T20:35:56: info: GET /api/favorites/422053225
+2024-11-01T20:35:56: GET /api/favorites/422053225
+2024-11-02T11:32:25: info: GET /api/apps
+2024-11-02T11:32:25: GET /api/apps
+2024-11-02T11:32:25: info: POST /api/user/settings
+2024-11-02T11:32:25: POST /api/user/settings
+2024-11-02T11:32:25: info: Fetched 60 apps. Sort type: alphabet
+2024-11-02T11:32:25: info: POST /api/user/activity
+2024-11-02T11:32:25: POST /api/user/activity
+2024-11-02T11:32:25: Received user activity data: {
+2024-11-02T11:32:25:   userId: 1363931214,
+2024-11-02T11:32:25:   username: 'Sem_Pru',
+2024-11-02T11:32:25:   firstName: 'Sem',
+2024-11-02T11:32:25:   lastName: ''
+2024-11-02T11:32:25: }
+2024-11-02T11:32:25: info: GET /api/user/settings/1363931214
+2024-11-02T11:32:25: GET /api/user/settings/1363931214
+2024-11-02T11:32:25: info: GET /api/favorites/1363931214
+2024-11-02T11:32:25: GET /api/favorites/1363931214
+2024-11-02T14:56:42: info: GET /api/user/settings/6623854940
+2024-11-02T14:56:42: GET /api/user/settings/6623854940
+2024-11-02T14:56:42: info: POST /api/user/settings
+2024-11-02T14:56:42: POST /api/user/settings
+2024-11-02T14:56:42: info: GET /api/apps
+2024-11-02T14:56:42: GET /api/apps
+2024-11-02T14:56:42: info: Fetched 60 apps. Sort type: alphabet
+2024-11-02T14:56:42: info: POST /api/user/activity
+2024-11-02T14:56:42: POST /api/user/activity
+2024-11-02T14:56:42: Received user activity data: { userId: 6623854940, firstName: 'Умарова', lastName: 'Гулчехра' }
+2024-11-02T14:56:42: info: GET /api/apps
+2024-11-02T14:56:42: GET /api/apps
+2024-11-02T14:56:42: info: Fetched 60 apps. Sort type: alphabet
+2024-11-03T23:04:58: info: GET /api/.env
+2024-11-03T23:04:58: GET /api/.env
+2024-11-04T10:48:19: info: GET /api/user/settings/422053225
+2024-11-04T10:48:19: GET /api/user/settings/422053225
+2024-11-04T10:48:19: info: POST /api/user/settings
+2024-11-04T10:48:19: POST /api/user/settings
+2024-11-04T10:48:20: info: GET /api/apps
+2024-11-04T10:48:20: GET /api/apps
+2024-11-04T10:48:20: info: Fetched 60 apps. Sort type: alphabet
+2024-11-04T10:48:20: info: POST /api/user/activity
+2024-11-04T10:48:20: POST /api/user/activity
+2024-11-04T10:48:20: Received user activity data: {
+2024-11-04T10:48:20:   userId: 422053225,
+2024-11-04T10:48:20:   username: 'eugenonyx',
+2024-11-04T10:48:20:   firstName: 'Евгений TIME',
+2024-11-04T10:48:20:   lastName: ''
+2024-11-04T10:48:20: }
+2024-11-04T10:48:20: info: POST /api/user/settings
+2024-11-04T10:48:20: POST /api/user/settings
+2024-11-04T10:48:20: info: GET /api/apps
+2024-11-04T10:48:20: GET /api/apps
+2024-11-04T10:48:20: info: Fetched 60 apps. Sort type: alphabet
+2024-11-04T10:48:20: info: GET /api/favorites/422053225
+2024-11-04T10:48:20: GET /api/favorites/422053225
+2024-11-04T19:00:59: info: GET /api/.env
+2024-11-04T19:00:59: GET /api/.env
+2024-11-04T19:01:00: info: GET /api/.env
+2024-11-04T19:01:00: GET /api/.env
+2024-11-05T15:15:09: Server running on port 5000
+2024-11-05T15:15:09: Connected to MongoDB
+2024-11-05T15:15:09: Admin password hashed successfully
+2024-11-05T15:48:31: Server running on port 5000
+2024-11-05T15:48:31: Connected to MongoDB
+2024-11-05T15:48:31: Admin password hashed successfully
+2024-11-05T15:57:45: info: GET /api/user/settings/422053225
+2024-11-05T15:57:45: GET /api/user/settings/422053225
+2024-11-05T15:57:45: info: POST /api/user/settings
+2024-11-05T15:57:45: POST /api/user/settings
+2024-11-05T15:57:46: info: GET /api/apps
+2024-11-05T15:57:46: GET /api/apps
+2024-11-05T15:57:46: info: POST /api/user/activity
+2024-11-05T15:57:46: POST /api/user/activity
+2024-11-05T15:57:46: Received user activity data: {
+2024-11-05T15:57:46:   userId: 422053225,
+2024-11-05T15:57:46:   username: 'eugenonyx',
+2024-11-05T15:57:46:   firstName: 'Евгений TIME',
+2024-11-05T15:57:46:   lastName: ''
+2024-11-05T15:57:46: }
+2024-11-05T15:57:46: info: Fetched 60 apps. Sort type: alphabet
+2024-11-05T15:57:46: info: GET /api/apps
+2024-11-05T15:57:46: GET /api/apps
+2024-11-05T15:57:46: info: Fetched 60 apps. Sort type: alphabet
+2024-11-05T15:57:46: info: POST /api/user/settings
+2024-11-05T15:57:46: POST /api/user/settings
+2024-11-05T16:12:41: info: GET /api/user/settings/422053225
+2024-11-05T16:12:41: GET /api/user/settings/422053225
+2024-11-05T16:12:41: info: GET /api/apps
+2024-11-05T16:12:41: GET /api/apps
+2024-11-05T16:12:41: info: Fetched 60 apps. Sort type: alphabet
+2024-11-05T16:12:41: info: POST /api/user/settings
+2024-11-05T16:12:41: POST /api/user/settings
+2024-11-05T16:12:41: info: POST /api/user/activity
+2024-11-05T16:12:41: POST /api/user/activity
+2024-11-05T16:12:41: Received user activity data: {
+2024-11-05T16:12:41:   userId: 422053225,
+2024-11-05T16:12:41:   username: 'eugenonyx',
+2024-11-05T16:12:41:   firstName: 'Евгений TIME',
+2024-11-05T16:12:41:   lastName: ''
+2024-11-05T16:12:41: }
+2024-11-05T16:12:41: info: GET /api/apps
+2024-11-05T16:12:41: GET /api/apps
+2024-11-05T16:12:41: info: Fetched 60 apps. Sort type: alphabet
+2024-11-05T16:12:41: info: POST /api/user/settings
+2024-11-05T16:12:41: POST /api/user/settings
+2024-11-05T16:12:41: info: GET /api/favorites/422053225
+2024-11-05T16:12:41: GET /api/favorites/422053225
+2024-11-05T16:25:31: info: GET /api/user/settings/422053225
+2024-11-05T16:25:31: GET /api/user/settings/422053225
+2024-11-05T16:25:31: info: GET /api/apps
+2024-11-05T16:25:31: GET /api/apps
+2024-11-05T16:25:31: info: POST /api/user/activity
+2024-11-05T16:25:31: POST /api/user/activity
+2024-11-05T16:25:31: Received user activity data: {
+2024-11-05T16:25:31:   userId: 422053225,
+2024-11-05T16:25:31:   username: 'eugenonyx',
+2024-11-05T16:25:31:   firstName: 'Евгений TIME',
+2024-11-05T16:25:31:   lastName: ''
+2024-11-05T16:25:31: }
+2024-11-05T16:25:31: info: Fetched 60 apps. Sort type: alphabet
+2024-11-05T16:25:31: info: POST /api/user/settings
+2024-11-05T16:25:31: POST /api/user/settings
+2024-11-05T16:25:31: info: GET /api/apps
+2024-11-05T16:25:31: GET /api/apps
+2024-11-05T16:25:31: info: Fetched 60 apps. Sort type: alphabet
+2024-11-05T16:25:31: info: POST /api/user/settings
+2024-11-05T16:25:31: POST /api/user/settings
+2024-11-05T16:25:31: info: GET /api/favorites/422053225
+2024-11-05T16:25:31: GET /api/favorites/422053225
+2024-11-05T16:25:43: info: GET /api/user/settings/6997862096
+2024-11-05T16:25:43: GET /api/user/settings/6997862096
+2024-11-05T16:25:43: info: GET /api/apps
+2024-11-05T16:25:43: GET /api/apps
+2024-11-05T16:25:43: info: POST /api/user/settings
+2024-11-05T16:25:43: POST /api/user/settings
+2024-11-05T16:25:43: info: Fetched 60 apps. Sort type: alphabet
+2024-11-05T16:25:43: info: POST /api/user/activity
+2024-11-05T16:25:43: POST /api/user/activity
+2024-11-05T16:25:43: Received user activity data: {
+2024-11-05T16:25:43:   userId: 6997862096,
+2024-11-05T16:25:43:   username: 'diamondxton',
+2024-11-05T16:25:43:   firstName: 'Sleepton',
+2024-11-05T16:25:43:   lastName: ''
+2024-11-05T16:25:43: }
+2024-11-05T16:25:43: info: GET /api/apps
+2024-11-05T16:25:43: GET /api/apps
+2024-11-05T16:25:43: info: Fetched 60 apps. Sort type: alphabet
+2024-11-05T16:25:43: info: GET /api/favorites/6997862096
+2024-11-05T16:25:43: GET /api/favorites/6997862096
+2024-11-05T16:26:20: info: GET /api/user/settings/7142408548
+2024-11-05T16:26:20: GET /api/user/settings/7142408548
+2024-11-05T16:26:20: info: GET /api/apps
+2024-11-05T16:26:20: GET /api/apps
+2024-11-05T16:26:20: info: Fetched 60 apps. Sort type: alphabet
+2024-11-05T16:26:20: info: POST /api/user/activity
+2024-11-05T16:26:20: POST /api/user/activity
+2024-11-05T16:26:20: Received user activity data: {
+2024-11-05T16:26:20:   userId: 7142408548,
+2024-11-05T16:26:20:   username: 'notsensei',
+2024-11-05T16:26:20:   firstName: 'TIME',
+2024-11-05T16:26:20:   lastName: 'Sensei'
+2024-11-05T16:26:20: }
+2024-11-05T16:26:20: info: POST /api/user/settings
+2024-11-05T16:26:20: POST /api/user/settings
+2024-11-05T16:26:21: info: GET /api/apps
+2024-11-05T16:26:21: GET /api/apps
+2024-11-05T16:26:21: info: Fetched 60 apps. Sort type: alphabet
+2024-11-05T16:26:21: info: POST /api/user/settings
+2024-11-05T16:26:21: POST /api/user/settings
+2024-11-05T16:26:21: info: GET /api/favorites/7142408548
+2024-11-05T16:26:21: GET /api/favorites/7142408548
+2024-11-05T16:28:07: info: GET /api/user/settings/422053225
+2024-11-05T16:28:07: GET /api/user/settings/422053225
+2024-11-05T16:28:07: info: GET /api/apps
+2024-11-05T16:28:07: GET /api/apps
+2024-11-05T16:28:07: info: POST /api/user/settings
+2024-11-05T16:28:07: POST /api/user/settings
+2024-11-05T16:28:07: info: Fetched 60 apps. Sort type: alphabet
+2024-11-05T16:28:07: info: POST /api/user/activity
+2024-11-05T16:28:07: POST /api/user/activity
+2024-11-05T16:28:07: Received user activity data: {
+2024-11-05T16:28:07:   userId: 422053225,
+2024-11-05T16:28:07:   username: 'eugenonyx',
+2024-11-05T16:28:07:   firstName: 'Евгений TIME',
+2024-11-05T16:28:07:   lastName: ''
+2024-11-05T16:28:07: }
+2024-11-05T16:28:07: info: GET /api/apps
+2024-11-05T16:28:07: GET /api/apps
+2024-11-05T16:28:07: info: Fetched 60 apps. Sort type: alphabet
+2024-11-05T16:28:07: info: POST /api/user/settings
+2024-11-05T16:28:07: POST /api/user/settings
+2024-11-05T16:28:07: info: GET /api/favorites/422053225
+2024-11-05T16:28:07: GET /api/favorites/422053225
+2024-11-05T16:28:11: info: POST /api/user/settings
+2024-11-05T16:28:11: POST /api/user/settings
+2024-11-05T16:28:17: info: POST /api/user/settings
+2024-11-05T16:28:17: POST /api/user/settings
+2024-11-05T16:28:32: info: POST /api/user/settings
+2024-11-05T16:28:32: POST /api/user/settings
+2024-11-05T16:28:32: info: GET /api/user/settings/422053225
+2024-11-05T16:28:32: GET /api/user/settings/422053225
+2024-11-05T16:28:32: info: GET /api/apps
+2024-11-05T16:28:32: GET /api/apps
+2024-11-05T16:28:32: info: POST /api/user/activity
+2024-11-05T16:28:32: POST /api/user/activity
+2024-11-05T16:28:32: Received user activity data: {
+2024-11-05T16:28:32:   userId: 422053225,
+2024-11-05T16:28:32:   username: 'eugenonyx',
+2024-11-05T16:28:32:   firstName: 'Евгений TIME',
+2024-11-05T16:28:32:   lastName: ''
+2024-11-05T16:28:32: }
+2024-11-05T16:28:32: info: Fetched 60 apps. Sort type: alphabet
+2024-11-05T16:28:32: info: GET /api/apps
+2024-11-05T16:28:32: GET /api/apps
+2024-11-05T16:28:32: info: Fetched 60 apps. Sort type: alphabet
+2024-11-05T16:28:32: info: GET /api/favorites/422053225
+2024-11-05T16:28:32: GET /api/favorites/422053225
+2024-11-05T16:28:34: info: POST /api/user/settings
+2024-11-05T16:28:34: POST /api/user/settings
+2024-11-05T16:28:35: info: POST /api/user/settings
+2024-11-05T16:28:35: POST /api/user/settings
+2024-11-05T16:28:39: info: GET /api/user/settings/422053225
+2024-11-05T16:28:39: GET /api/user/settings/422053225
+2024-11-05T16:28:39: info: POST /api/user/settings
+2024-11-05T16:28:39: POST /api/user/settings
+2024-11-05T16:28:39: info: POST /api/user/activity
+2024-11-05T16:28:39: POST /api/user/activity
+2024-11-05T16:28:39: Received user activity data: {
+2024-11-05T16:28:39:   userId: 422053225,
+2024-11-05T16:28:39:   username: 'eugenonyx',
+2024-11-05T16:28:39:   firstName: 'Евгений TIME',
+2024-11-05T16:28:39:   lastName: ''
+2024-11-05T16:28:39: }
+2024-11-05T16:28:39: info: GET /api/apps
+2024-11-05T16:28:39: GET /api/apps
+2024-11-05T16:28:39: info: Fetched 60 apps. Sort type: alphabet
+2024-11-05T16:28:39: info: GET /api/apps
+2024-11-05T16:28:39: GET /api/apps
+2024-11-05T16:28:39: info: Fetched 60 apps. Sort type: alphabet
+2024-11-05T16:28:39: info: POST /api/user/settings
+2024-11-05T16:28:39: POST /api/user/settings
+2024-11-05T16:28:39: info: GET /api/favorites/422053225
+2024-11-05T16:28:39: GET /api/favorites/422053225
+2024-11-05T16:30:23: info: GET /api/user/settings/422053225
+2024-11-05T16:30:23: GET /api/user/settings/422053225
+2024-11-05T16:30:23: info: POST /api/user/settings
+2024-11-05T16:30:23: POST /api/user/settings
+2024-11-05T16:30:23: info: POST /api/user/activity
+2024-11-05T16:30:23: POST /api/user/activity
+2024-11-05T16:30:23: Received user activity data: {
+2024-11-05T16:30:23:   userId: 422053225,
+2024-11-05T16:30:23:   username: 'eugenonyx',
+2024-11-05T16:30:23:   firstName: 'Евгений TIME',
+2024-11-05T16:30:23:   lastName: ''
+2024-11-05T16:30:23: }
+2024-11-05T16:30:23: info: GET /api/apps
+2024-11-05T16:30:23: GET /api/apps
+2024-11-05T16:30:23: info: Fetched 60 apps. Sort type: alphabet
+2024-11-05T16:30:23: info: GET /api/apps
+2024-11-05T16:30:23: GET /api/apps
+2024-11-05T16:30:23: info: Fetched 60 apps. Sort type: alphabet
+2024-11-05T16:30:23: info: POST /api/user/settings
+2024-11-05T16:30:23: POST /api/user/settings
+2024-11-05T16:30:23: info: GET /api/favorites/422053225
+2024-11-05T16:30:23: GET /api/favorites/422053225
+2024-11-05T16:30:29: info: POST /api/user/settings
+2024-11-05T16:30:29: POST /api/user/settings
+2024-11-05T16:30:29: info: POST /api/user/settings
+2024-11-05T16:30:29: POST /api/user/settings
+2024-11-05T16:30:30: info: POST /api/user/settings
+2024-11-05T16:30:30: POST /api/user/settings
+2024-11-05T16:30:30: info: POST /api/user/settings
+2024-11-05T16:30:30: POST /api/user/settings
+2024-11-05T16:30:31: info: POST /api/user/settings
+2024-11-05T16:30:31: POST /api/user/settings
+2024-11-05T16:30:31: info: POST /api/user/settings
+2024-11-05T16:30:31: POST /api/user/settings
+2024-11-05T16:30:38: info: POST /api/user/settings
+2024-11-05T16:30:38: POST /api/user/settings
+2024-11-05T16:30:38: info: POST /api/user/settings
+2024-11-05T16:30:38: POST /api/user/settings
+2024-11-05T16:31:14: info: GET /api/user/settings/422053225
+2024-11-05T16:31:14: GET /api/user/settings/422053225
+2024-11-05T16:31:14: info: POST /api/user/settings
+2024-11-05T16:31:14: POST /api/user/settings
+2024-11-05T16:31:14: info: GET /api/apps
+2024-11-05T16:31:14: GET /api/apps
+2024-11-05T16:31:14: info: POST /api/user/activity
+2024-11-05T16:31:14: POST /api/user/activity
+2024-11-05T16:31:14: Received user activity data: {
+2024-11-05T16:31:14:   userId: 422053225,
+2024-11-05T16:31:14:   username: 'eugenonyx',
+2024-11-05T16:31:14:   firstName: 'Евгений TIME',
+2024-11-05T16:31:14:   lastName: ''
+2024-11-05T16:31:14: }
+2024-11-05T16:31:14: info: Fetched 60 apps. Sort type: alphabet
+2024-11-05T16:31:14: info: GET /api/apps
+2024-11-05T16:31:14: GET /api/apps
+2024-11-05T16:31:14: info: Fetched 60 apps. Sort type: alphabet
+2024-11-05T16:31:14: info: POST /api/user/settings
+2024-11-05T16:31:14: POST /api/user/settings
+2024-11-05T16:31:14: info: GET /api/favorites/422053225
+2024-11-05T16:31:14: GET /api/favorites/422053225
+2024-11-05T16:39:58: info: GET /api/user/settings/422053225
+2024-11-05T16:39:58: GET /api/user/settings/422053225
+2024-11-05T16:39:58: info: GET /api/apps
+2024-11-05T16:39:58: GET /api/apps
+2024-11-05T16:39:58: info: Fetched 60 apps. Sort type: alphabet
+2024-11-05T16:39:58: info: POST /api/user/activity
+2024-11-05T16:39:58: POST /api/user/activity
+2024-11-05T16:39:58: Received user activity data: {
+2024-11-05T16:39:58:   userId: 422053225,
+2024-11-05T16:39:58:   username: 'eugenonyx',
+2024-11-05T16:39:58:   firstName: 'Евгений TIME',
+2024-11-05T16:39:58:   lastName: ''
+2024-11-05T16:39:58: }
+2024-11-05T16:39:58: info: POST /api/user/settings
+2024-11-05T16:39:58: POST /api/user/settings
+2024-11-05T16:39:58: info: GET /api/apps
+2024-11-05T16:39:58: GET /api/apps
+2024-11-05T16:39:58: info: Fetched 60 apps. Sort type: alphabet
+2024-11-05T16:39:58: info: GET /api/favorites/422053225
+2024-11-05T16:39:58: GET /api/favorites/422053225
+2024-11-05T16:39:58: info: POST /api/user/settings
+2024-11-05T16:39:58: POST /api/user/settings
+2024-11-05T16:50:53: info: GET /api/user/settings/422053225
+2024-11-05T16:50:53: GET /api/user/settings/422053225
+2024-11-05T16:50:53: info: POST /api/user/settings
+2024-11-05T16:50:53: POST /api/user/settings
+2024-11-05T16:50:53: info: POST /api/user/activity
+2024-11-05T16:50:53: POST /api/user/activity
+2024-11-05T16:50:53: Received user activity data: {
+2024-11-05T16:50:53:   userId: 422053225,
+2024-11-05T16:50:53:   username: 'eugenonyx',
+2024-11-05T16:50:53:   firstName: 'Евгений TIME',
+2024-11-05T16:50:53:   lastName: ''
+2024-11-05T16:50:53: }
+2024-11-05T16:50:53: info: GET /api/apps
+2024-11-05T16:50:53: GET /api/apps
+2024-11-05T16:50:53: info: Fetched 60 apps. Sort type: alphabet
+2024-11-05T16:50:53: info: GET /api/apps
+2024-11-05T16:50:53: GET /api/apps
+2024-11-05T16:50:53: info: Fetched 60 apps. Sort type: alphabet
+2024-11-05T16:50:53: info: POST /api/user/settings
+2024-11-05T16:50:53: POST /api/user/settings
+2024-11-05T16:50:53: info: GET /api/favorites/422053225
+2024-11-05T16:50:53: GET /api/favorites/422053225
+2024-11-05T21:51:57: info: GET /api/user/settings/422053225
+2024-11-05T21:51:57: GET /api/user/settings/422053225
+2024-11-05T21:51:57: info: POST /api/user/settings
+2024-11-05T21:51:57: POST /api/user/settings
+2024-11-05T21:51:57: info: GET /api/apps
+2024-11-05T21:51:57: GET /api/apps
+2024-11-05T21:51:57: info: POST /api/user/activity
+2024-11-05T21:51:57: POST /api/user/activity
+2024-11-05T21:51:57: Received user activity data: {
+2024-11-05T21:51:57:   userId: 422053225,
+2024-11-05T21:51:57:   username: 'eugenonyx',
+2024-11-05T21:51:57:   firstName: 'Евгений TIME',
+2024-11-05T21:51:57:   lastName: ''
+2024-11-05T21:51:57: }
+2024-11-05T21:51:57: info: Fetched 60 apps. Sort type: alphabet
+2024-11-05T21:51:57: info: POST /api/user/settings
+2024-11-05T21:51:57: POST /api/user/settings
+2024-11-05T21:51:58: info: GET /api/apps
+2024-11-05T21:51:58: GET /api/apps
+2024-11-05T21:51:58: info: Fetched 60 apps. Sort type: alphabet
+2024-11-05T21:52:19: info: POST /api/user/settings
+2024-11-05T21:52:19: POST /api/user/settings
+2024-11-05T21:52:19: info: GET /api/user/settings/422053225
+2024-11-05T21:52:19: GET /api/user/settings/422053225
+2024-11-05T21:52:19: info: GET /api/apps
+2024-11-05T21:52:19: GET /api/apps
+2024-11-05T21:52:19: info: Fetched 60 apps. Sort type: alphabet
+2024-11-05T21:52:19: info: POST /api/user/activity
+2024-11-05T21:52:19: POST /api/user/activity
+2024-11-05T21:52:19: Received user activity data: {
+2024-11-05T21:52:19:   userId: 422053225,
+2024-11-05T21:52:19:   username: 'eugenonyx',
+2024-11-05T21:52:19:   firstName: 'Евгений TIME',
+2024-11-05T21:52:19:   lastName: ''
+2024-11-05T21:52:19: }
+2024-11-05T21:52:19: info: GET /api/apps
+2024-11-05T21:52:19: GET /api/apps
+2024-11-05T21:52:19: info: Fetched 60 apps. Sort type: alphabet
+2024-11-05T21:52:19: info: GET /api/favorites/422053225
+2024-11-05T21:52:19: GET /api/favorites/422053225
+2024-11-05T21:52:21: info: POST /api/user/settings
+2024-11-05T21:52:21: POST /api/user/settings
+2024-11-05T21:52:21: info: POST /api/user/settings
+2024-11-05T21:52:21: POST /api/user/settings
+2024-11-05T21:52:28: info: POST /api/user/settings
+2024-11-05T21:52:28: POST /api/user/settings
+2024-11-05T21:52:28: info: GET /api/user/settings/422053225
+2024-11-05T21:52:28: GET /api/user/settings/422053225
+2024-11-05T21:52:28: info: GET /api/apps
+2024-11-05T21:52:28: GET /api/apps
+2024-11-05T21:52:28: info: Fetched 60 apps. Sort type: alphabet
+2024-11-05T21:52:28: info: POST /api/user/activity
+2024-11-05T21:52:28: POST /api/user/activity
+2024-11-05T21:52:28: Received user activity data: {
+2024-11-05T21:52:28:   userId: 422053225,
+2024-11-05T21:52:28:   username: 'eugenonyx',
+2024-11-05T21:52:28:   firstName: 'Евгений TIME',
+2024-11-05T21:52:28:   lastName: ''
+2024-11-05T21:52:28: }
+2024-11-05T21:52:28: info: GET /api/apps
+2024-11-05T21:52:28: GET /api/apps
+2024-11-05T21:52:28: info: Fetched 60 apps. Sort type: alphabet
+2024-11-05T21:52:28: info: GET /api/favorites/422053225
+2024-11-05T21:52:28: GET /api/favorites/422053225
+2024-11-05T21:52:39: info: GET /api/user/settings/6997862096
+2024-11-05T21:52:39: GET /api/user/settings/6997862096
+2024-11-05T21:52:39: info: POST /api/user/settings
+2024-11-05T21:52:39: POST /api/user/settings
+2024-11-05T21:52:39: info: POST /api/user/activity
+2024-11-05T21:52:39: POST /api/user/activity
+2024-11-05T21:52:39: Received user activity data: {
+2024-11-05T21:52:39:   userId: 6997862096,
+2024-11-05T21:52:39:   username: 'diamondxton',
+2024-11-05T21:52:39:   firstName: 'Sleepton',
+2024-11-05T21:52:39:   lastName: ''
+2024-11-05T21:52:39: }
+2024-11-05T21:52:39: info: GET /api/apps
+2024-11-05T21:52:39: GET /api/apps
+2024-11-05T21:52:39: info: Fetched 60 apps. Sort type: alphabet
+2024-11-05T21:52:39: info: GET /api/apps
+2024-11-05T21:52:39: GET /api/apps
+2024-11-05T21:52:39: info: Fetched 60 apps. Sort type: alphabet
+2024-11-05T21:52:39: info: GET /api/favorites/6997862096
+2024-11-05T21:52:39: GET /api/favorites/6997862096
+2024-11-05T21:52:40: info: POST /api/user/settings
+2024-11-05T21:52:40: POST /api/user/settings
+2024-11-05T21:52:41: info: POST /api/user/settings
+2024-11-05T21:52:41: POST /api/user/settings
+2024-11-05T21:52:50: info: GET /api/user/settings/7142408548
+2024-11-05T21:52:50: GET /api/user/settings/7142408548
+2024-11-05T21:52:50: info: POST /api/user/settings
+2024-11-05T21:52:50: POST /api/user/settings
+2024-11-05T21:52:50: info: GET /api/apps
+2024-11-05T21:52:50: GET /api/apps
+2024-11-05T21:52:50: info: Fetched 60 apps. Sort type: alphabet
+2024-11-05T21:52:50: info: POST /api/user/activity
+2024-11-05T21:52:50: POST /api/user/activity
+2024-11-05T21:52:50: Received user activity data: {
+2024-11-05T21:52:50:   userId: 7142408548,
+2024-11-05T21:52:50:   username: 'notsensei',
+2024-11-05T21:52:50:   firstName: 'TIME',
+2024-11-05T21:52:50:   lastName: 'Sensei'
+2024-11-05T21:52:50: }
+2024-11-05T21:52:51: info: GET /api/apps
+2024-11-05T21:52:51: GET /api/apps
+2024-11-05T21:52:51: info: Fetched 60 apps. Sort type: alphabet
+2024-11-05T21:52:51: info: POST /api/user/settings
+2024-11-05T21:52:51: POST /api/user/settings
+2024-11-05T21:52:51: info: GET /api/favorites/7142408548
+2024-11-05T21:52:51: GET /api/favorites/7142408548
+2024-11-06T07:39:47: info: GET /api/user/settings/422053225
+2024-11-06T07:39:47: GET /api/user/settings/422053225
+2024-11-06T07:39:47: info: GET /api/apps
+2024-11-06T07:39:47: GET /api/apps
+2024-11-06T07:39:47: info: Fetched 60 apps. Sort type: alphabet
+2024-11-06T07:39:47: info: POST /api/user/activity
+2024-11-06T07:39:47: POST /api/user/activity
+2024-11-06T07:39:47: Received user activity data: {
+2024-11-06T07:39:47:   userId: 422053225,
+2024-11-06T07:39:47:   username: 'eugenonyx',
+2024-11-06T07:39:47:   firstName: 'Евгений TIME',
+2024-11-06T07:39:47:   lastName: ''
+2024-11-06T07:39:47: }
+2024-11-06T07:39:47: info: POST /api/user/settings
+2024-11-06T07:39:47: POST /api/user/settings
+2024-11-06T07:39:47: info: GET /api/apps
+2024-11-06T07:39:47: GET /api/apps
+2024-11-06T07:39:47: info: Fetched 60 apps. Sort type: alphabet
+2024-11-06T07:39:47: info: GET /api/favorites/422053225
+2024-11-06T07:39:47: GET /api/favorites/422053225
+2024-11-06T07:39:52: info: POST /api/user/settings
+2024-11-06T07:39:52: POST /api/user/settings
+2024-11-06T08:15:18: info: GET /api/user/settings/422053225
+2024-11-06T08:15:18: GET /api/user/settings/422053225
+2024-11-06T08:15:18: info: GET /api/apps
+2024-11-06T08:15:18: GET /api/apps
+2024-11-06T08:15:18: info: Fetched 60 apps. Sort type: alphabet
+2024-11-06T08:15:18: info: POST /api/user/activity
+2024-11-06T08:15:18: POST /api/user/activity
+2024-11-06T08:15:18: Received user activity data: {
+2024-11-06T08:15:18:   userId: 422053225,
+2024-11-06T08:15:18:   username: 'eugenonyx',
+2024-11-06T08:15:18:   firstName: 'Евгений TIME',
+2024-11-06T08:15:18:   lastName: ''
+2024-11-06T08:15:18: }
+2024-11-06T08:15:18: info: POST /api/user/settings
+2024-11-06T08:15:18: POST /api/user/settings
+2024-11-06T08:15:18: info: GET /api/apps
+2024-11-06T08:15:18: GET /api/apps
+2024-11-06T08:15:18: info: Fetched 60 apps. Sort type: alphabet
+2024-11-06T08:15:18: info: POST /api/user/settings
+2024-11-06T08:15:18: POST /api/user/settings
+2024-11-06T08:15:18: info: GET /api/favorites/422053225
+2024-11-06T08:15:18: GET /api/favorites/422053225
+2024-11-06T08:15:23: info: POST /api/user/settings
+2024-11-06T08:15:23: POST /api/user/settings
+2024-11-06T09:47:01: info: GET /api/apps
+2024-11-06T09:47:01: GET /api/apps
+2024-11-06T09:47:01: info: GET /api/user/settings/422053225
+2024-11-06T09:47:01: GET /api/user/settings/422053225
+2024-11-06T09:47:01: info: Fetched 60 apps. Sort type: alphabet
+2024-11-06T09:47:01: info: POST /api/user/settings
+2024-11-06T09:47:01: POST /api/user/settings
+2024-11-06T09:47:01: info: POST /api/user/activity
+2024-11-06T09:47:01: POST /api/user/activity
+2024-11-06T09:47:01: Received user activity data: {
+2024-11-06T09:47:01:   userId: 422053225,
+2024-11-06T09:47:01:   username: 'eugenonyx',
+2024-11-06T09:47:01:   firstName: 'Евгений TIME',
+2024-11-06T09:47:01:   lastName: ''
+2024-11-06T09:47:01: }
+2024-11-06T09:47:01: info: GET /api/apps
+2024-11-06T09:47:01: GET /api/apps
+2024-11-06T09:47:01: info: Fetched 60 apps. Sort type: alphabet
+2024-11-06T09:47:02: info: POST /api/user/settings
+2024-11-06T09:47:02: POST /api/user/settings
+2024-11-06T09:47:02: info: GET /api/favorites/422053225
+2024-11-06T09:47:02: GET /api/favorites/422053225
+2024-11-06T10:25:27: info: GET /api/user/settings/422053225
+2024-11-06T10:25:27: GET /api/user/settings/422053225
+2024-11-06T10:25:27: info: POST /api/user/settings
+2024-11-06T10:25:27: POST /api/user/settings
+2024-11-06T10:25:27: info: GET /api/apps
+2024-11-06T10:25:27: GET /api/apps
+2024-11-06T10:25:27: info: Fetched 60 apps. Sort type: alphabet
+2024-11-06T10:25:27: info: POST /api/user/activity
+2024-11-06T10:25:27: POST /api/user/activity
+2024-11-06T10:25:27: Received user activity data: {
+2024-11-06T10:25:27:   userId: 422053225,
+2024-11-06T10:25:27:   username: 'eugenonyx',
+2024-11-06T10:25:27:   firstName: 'Евгений TIME',
+2024-11-06T10:25:27:   lastName: ''
+2024-11-06T10:25:27: }
+2024-11-06T10:25:27: info: GET /api/apps
+2024-11-06T10:25:27: GET /api/apps
+2024-11-06T10:25:27: info: Fetched 60 apps. Sort type: alphabet
+2024-11-06T10:25:27: info: POST /api/user/settings
+2024-11-06T10:25:27: POST /api/user/settings
+2024-11-06T10:25:56: info: POST /api/user/settings
+2024-11-06T10:25:56: POST /api/user/settings
+2024-11-06T10:25:56: info: POST /api/user/activity
+2024-11-06T10:25:56: POST /api/user/activity
+2024-11-06T10:25:56: Received user activity data: {
+2024-11-06T10:25:56:   userId: 422053225,
+2024-11-06T10:25:56:   username: 'eugenonyx',
+2024-11-06T10:25:56:   firstName: 'Евгений TIME',
+2024-11-06T10:25:56:   lastName: ''
+2024-11-06T10:25:56: }
+2024-11-06T10:25:56: info: GET /api/user/settings/422053225
+2024-11-06T10:25:56: GET /api/user/settings/422053225
+2024-11-06T10:25:56: info: GET /api/apps
+2024-11-06T10:25:56: GET /api/apps
+2024-11-06T10:25:56: info: Fetched 60 apps. Sort type: alphabet
+2024-11-06T10:25:56: info: GET /api/apps
+2024-11-06T10:25:56: GET /api/apps
+2024-11-06T10:25:56: info: Fetched 60 apps. Sort type: alphabet
+2024-11-06T18:08:42: info: GET /api/user/settings/422053225
+2024-11-06T18:08:42: GET /api/user/settings/422053225
+2024-11-06T18:08:42: info: POST /api/user/settings
+2024-11-06T18:08:42: POST /api/user/settings
+2024-11-06T18:08:42: info: POST /api/user/activity
+2024-11-06T18:08:42: POST /api/user/activity
+2024-11-06T18:08:42: Received user activity data: {
+2024-11-06T18:08:42:   userId: 422053225,
+2024-11-06T18:08:42:   username: 'eugenonyx',
+2024-11-06T18:08:42:   firstName: 'Евгений TIME',
+2024-11-06T18:08:42:   lastName: ''
+2024-11-06T18:08:42: }
+2024-11-06T18:08:42: info: GET /api/apps
+2024-11-06T18:08:42: GET /api/apps
+2024-11-06T18:08:42: info: Fetched 60 apps. Sort type: alphabet
+2024-11-06T18:08:42: info: GET /api/apps
+2024-11-06T18:08:42: GET /api/apps
+2024-11-06T18:08:42: info: Fetched 60 apps. Sort type: alphabet
+2024-11-06T18:08:42: info: GET /api/favorites/422053225
+2024-11-06T18:08:42: GET /api/favorites/422053225
+2024-11-06T18:08:57: info: POST /api/user/settings
+2024-11-06T18:08:57: POST /api/user/settings
+2024-11-06T18:08:58: info: POST /api/user/settings
+2024-11-06T18:08:58: POST /api/user/settings
+2024-11-07T08:51:41: info: GET /api/user/settings/422053225
+2024-11-07T08:51:41: GET /api/user/settings/422053225
+2024-11-07T08:51:41: info: GET /api/apps
+2024-11-07T08:51:41: GET /api/apps
+2024-11-07T08:51:41: info: POST /api/user/settings
+2024-11-07T08:51:41: POST /api/user/settings
+2024-11-07T08:51:41: info: Fetched 60 apps. Sort type: alphabet
+2024-11-07T08:51:41: info: POST /api/user/activity
+2024-11-07T08:51:41: POST /api/user/activity
+2024-11-07T08:51:41: Received user activity data: {
+2024-11-07T08:51:41:   userId: 422053225,
+2024-11-07T08:51:41:   username: 'eugenonyx',
+2024-11-07T08:51:41:   firstName: 'Евгений TIME',
+2024-11-07T08:51:41:   lastName: ''
+2024-11-07T08:51:41: }
+2024-11-07T08:51:41: info: GET /api/apps
+2024-11-07T08:51:41: GET /api/apps
+2024-11-07T08:51:41: info: Fetched 60 apps. Sort type: alphabet
+2024-11-07T08:51:41: info: POST /api/user/settings
+2024-11-07T08:51:41: POST /api/user/settings
+2024-11-07T08:51:48: info: POST /api/user/settings
+2024-11-07T08:51:48: POST /api/user/settings
+2024-11-07T08:51:48: info: POST /api/user/activity
+2024-11-07T08:51:48: POST /api/user/activity
+2024-11-07T08:51:48: Received user activity data: {
+2024-11-07T08:51:48:   userId: 422053225,
+2024-11-07T08:51:48:   username: 'eugenonyx',
+2024-11-07T08:51:48:   firstName: 'Евгений TIME',
+2024-11-07T08:51:48:   lastName: ''
+2024-11-07T08:51:48: }
+2024-11-07T08:51:48: info: GET /api/user/settings/422053225
+2024-11-07T08:51:48: GET /api/user/settings/422053225
+2024-11-07T08:51:48: info: GET /api/apps
+2024-11-07T08:51:48: GET /api/apps
+2024-11-07T08:51:48: info: Fetched 60 apps. Sort type: alphabet
+2024-11-07T08:51:48: info: GET /api/apps
+2024-11-07T08:51:48: GET /api/apps
+2024-11-07T08:51:48: info: Fetched 60 apps. Sort type: alphabet
+2024-11-07T08:51:52: info: GET /api/user/settings/422053225
+2024-11-07T08:51:52: GET /api/user/settings/422053225
+2024-11-07T08:51:52: info: POST /api/user/settings
+2024-11-07T08:51:52: POST /api/user/settings
+2024-11-07T08:51:52: info: POST /api/user/activity
+2024-11-07T08:51:52: POST /api/user/activity
+2024-11-07T08:51:52: Received user activity data: {
+2024-11-07T08:51:52:   userId: 422053225,
+2024-11-07T08:51:52:   username: 'eugenonyx',
+2024-11-07T08:51:52:   firstName: 'Евгений TIME',
+2024-11-07T08:51:52:   lastName: ''
+2024-11-07T08:51:52: }
+2024-11-07T08:51:52: info: GET /api/apps
+2024-11-07T08:51:52: GET /api/apps
+2024-11-07T08:51:52: info: Fetched 60 apps. Sort type: alphabet
+2024-11-07T08:51:52: info: GET /api/apps
+2024-11-07T08:51:52: GET /api/apps
+2024-11-07T08:51:52: info: Fetched 60 apps. Sort type: alphabet
+2024-11-07T09:13:36: info: GET /api/apps
+2024-11-07T09:13:36: GET /api/apps
+2024-11-07T09:13:36: info: Fetched 60 apps. Sort type: alphabet
+2024-11-07T09:13:36: info: GET /api/apps
+2024-11-07T09:13:36: GET /api/apps
+2024-11-07T09:13:36: info: Fetched 60 apps. Sort type: alphabet
+2024-11-07T09:53:51: info: POST /api/user/settings
+2024-11-07T09:53:51: POST /api/user/settings
+2024-11-07T09:53:51: info: GET /api/user/settings/422053225
+2024-11-07T09:53:51: GET /api/user/settings/422053225
+2024-11-07T09:53:51: info: GET /api/apps
+2024-11-07T09:53:51: GET /api/apps
+2024-11-07T09:53:51: info: POST /api/user/activity
+2024-11-07T09:53:51: POST /api/user/activity
+2024-11-07T09:53:51: Received user activity data: {
+2024-11-07T09:53:51:   userId: 422053225,
+2024-11-07T09:53:51:   username: 'eugenonyx',
+2024-11-07T09:53:51:   firstName: 'Евгений TIME',
+2024-11-07T09:53:51:   lastName: ''
+2024-11-07T09:53:51: }
+2024-11-07T09:53:51: info: Fetched 60 apps. Sort type: alphabet
+2024-11-07T09:53:51: info: GET /api/apps
+2024-11-07T09:53:51: GET /api/apps
+2024-11-07T09:53:51: info: Fetched 60 apps. Sort type: alphabet
+2024-11-07T09:56:40: info: GET /api/user/settings/422053225
+2024-11-07T09:56:40: GET /api/user/settings/422053225
+2024-11-07T09:56:40: info: GET /api/apps
+2024-11-07T09:56:40: GET /api/apps
+2024-11-07T09:56:40: info: POST /api/user/activity
+2024-11-07T09:56:40: POST /api/user/activity
+2024-11-07T09:56:40: Received user activity data: {
+2024-11-07T09:56:40:   userId: 422053225,
+2024-11-07T09:56:40:   username: 'eugenonyx',
+2024-11-07T09:56:40:   firstName: 'Евгений TIME',
+2024-11-07T09:56:40:   lastName: ''
+2024-11-07T09:56:40: }
+2024-11-07T09:56:40: info: Fetched 60 apps. Sort type: alphabet
+2024-11-07T09:56:40: info: POST /api/user/settings
+2024-11-07T09:56:40: POST /api/user/settings
+2024-11-07T09:56:40: info: GET /api/apps
+2024-11-07T09:56:40: GET /api/apps
+2024-11-07T09:56:40: info: Fetched 60 apps. Sort type: alphabet
+2024-11-07T09:56:40: info: GET /api/favorites/422053225
+2024-11-07T09:56:40: GET /api/favorites/422053225
+2024-11-07T09:56:48: info: POST /api/user/settings
+2024-11-07T09:56:48: POST /api/user/settings
+2024-11-07T09:56:51: info: GET /api/user/settings/422053225
+2024-11-07T09:56:51: GET /api/user/settings/422053225
+2024-11-07T09:56:51: info: GET /api/apps
+2024-11-07T09:56:51: GET /api/apps
+2024-11-07T09:56:51: info: Fetched 60 apps. Sort type: alphabet
+2024-11-07T09:56:51: info: POST /api/user/activity
+2024-11-07T09:56:51: POST /api/user/activity
+2024-11-07T09:56:51: Received user activity data: {
+2024-11-07T09:56:51:   userId: 422053225,
+2024-11-07T09:56:51:   username: 'eugenonyx',
+2024-11-07T09:56:51:   firstName: 'Евгений TIME',
+2024-11-07T09:56:51:   lastName: ''
+2024-11-07T09:56:51: }
+2024-11-07T09:56:51: info: POST /api/user/settings
+2024-11-07T09:56:51: POST /api/user/settings
+2024-11-07T09:56:51: info: POST /api/user/settings
+2024-11-07T09:56:51: POST /api/user/settings
+2024-11-07T09:56:51: info: GET /api/apps
+2024-11-07T09:56:51: GET /api/apps
+2024-11-07T09:56:51: info: Fetched 60 apps. Sort type: alphabet
+2024-11-07T09:56:52: info: GET /api/favorites/422053225
+2024-11-07T09:56:52: GET /api/favorites/422053225
+2024-11-07T09:57:10: info: GET /api/user/settings/422053225
+2024-11-07T09:57:10: GET /api/user/settings/422053225
+2024-11-07T09:57:10: info: GET /api/apps
+2024-11-07T09:57:10: GET /api/apps
+2024-11-07T09:57:10: info: POST /api/user/settings
+2024-11-07T09:57:10: POST /api/user/settings
+2024-11-07T09:57:10: info: Fetched 60 apps. Sort type: alphabet
+2024-11-07T09:57:10: info: POST /api/user/activity
+2024-11-07T09:57:10: POST /api/user/activity
+2024-11-07T09:57:10: Received user activity data: {
+2024-11-07T09:57:10:   userId: 422053225,
+2024-11-07T09:57:10:   username: 'eugenonyx',
+2024-11-07T09:57:10:   firstName: 'Евгений TIME',
+2024-11-07T09:57:10:   lastName: ''
+2024-11-07T09:57:10: }
+2024-11-07T09:57:10: info: GET /api/apps
+2024-11-07T09:57:10: GET /api/apps
+2024-11-07T09:57:10: info: Fetched 60 apps. Sort type: alphabet
+2024-11-07T09:57:10: info: POST /api/user/settings
+2024-11-07T09:57:10: POST /api/user/settings
+2024-11-07T09:57:10: info: GET /api/favorites/422053225
+2024-11-07T09:57:10: GET /api/favorites/422053225
+2024-11-07T09:59:56: info: GET /api/user/settings/422053225
+2024-11-07T09:59:56: GET /api/user/settings/422053225
+2024-11-07T09:59:56: info: POST /api/user/settings
+2024-11-07T09:59:56: POST /api/user/settings
+2024-11-07T09:59:56: info: POST /api/user/activity
+2024-11-07T09:59:56: POST /api/user/activity
+2024-11-07T09:59:56: Received user activity data: {
+2024-11-07T09:59:56:   userId: 422053225,
+2024-11-07T09:59:56:   username: 'eugenonyx',
+2024-11-07T09:59:56:   firstName: 'Евгений TIME',
+2024-11-07T09:59:56:   lastName: ''
+2024-11-07T09:59:56: }
+2024-11-07T09:59:56: info: GET /api/apps
+2024-11-07T09:59:56: GET /api/apps
+2024-11-07T09:59:56: info: Fetched 60 apps. Sort type: alphabet
+2024-11-07T09:59:56: info: POST /api/user/settings
+2024-11-07T09:59:56: POST /api/user/settings
+2024-11-07T09:59:56: info: GET /api/apps
+2024-11-07T09:59:56: GET /api/apps
+2024-11-07T09:59:56: info: Fetched 60 apps. Sort type: alphabet
+2024-11-07T09:59:56: info: GET /api/favorites/422053225
+2024-11-07T09:59:56: GET /api/favorites/422053225
+2024-11-07T10:01:22: info: GET /api/apps
+2024-11-07T10:01:22: GET /api/apps
+2024-11-07T10:01:22: info: Fetched 60 apps. Sort type: alphabet
+2024-11-07T10:01:24: info: GET /api/apps
+2024-11-07T10:01:24: GET /api/apps
+2024-11-07T10:01:24: info: Fetched 60 apps. Sort type: alphabet
+2024-11-07T10:05:07: info: POST /api/user/settings
+2024-11-07T10:05:07: POST /api/user/settings
+2024-11-07T10:05:07: info: POST /api/user/activity
+2024-11-07T10:05:07: POST /api/user/activity
+2024-11-07T10:05:07: Received user activity data: {
+2024-11-07T10:05:07:   userId: 422053225,
+2024-11-07T10:05:07:   username: 'eugenonyx',
+2024-11-07T10:05:07:   firstName: 'Евгений TIME',
+2024-11-07T10:05:07:   lastName: ''
+2024-11-07T10:05:07: }
+2024-11-07T10:05:07: info: GET /api/user/settings/422053225
+2024-11-07T10:05:07: GET /api/user/settings/422053225
+2024-11-07T10:05:07: info: GET /api/apps
+2024-11-07T10:05:07: GET /api/apps
+2024-11-07T10:05:07: info: Fetched 60 apps. Sort type: alphabet
+2024-11-07T10:05:07: info: GET /api/apps
+2024-11-07T10:05:07: GET /api/apps
+2024-11-07T10:05:07: info: Fetched 60 apps. Sort type: alphabet
+2024-11-07T10:05:07: info: GET /api/favorites/422053225
+2024-11-07T10:05:07: GET /api/favorites/422053225
+2024-11-07T10:10:08: info: POST /api/user/activity
+2024-11-07T10:10:08: POST /api/user/activity
+2024-11-07T10:10:08: Received user activity data: {
+2024-11-07T10:10:08:   userId: 422053225,
+2024-11-07T10:10:08:   username: 'eugenonyx',
+2024-11-07T10:10:08:   firstName: 'Евгений TIME',
+2024-11-07T10:10:08:   lastName: ''
+2024-11-07T10:10:08: }
+2024-11-07T10:15:08: info: POST /api/user/activity
+2024-11-07T10:15:08: POST /api/user/activity
+2024-11-07T10:15:08: Received user activity data: {
+2024-11-07T10:15:08:   userId: 422053225,
+2024-11-07T10:15:08:   username: 'eugenonyx',
+2024-11-07T10:15:08:   firstName: 'Евгений TIME',
+2024-11-07T10:15:08:   lastName: ''
+2024-11-07T10:15:08: }
+2024-11-07T10:20:08: info: POST /api/user/activity
+2024-11-07T10:20:08: POST /api/user/activity
+2024-11-07T10:20:08: Received user activity data: {
+2024-11-07T10:20:08:   userId: 422053225,
+2024-11-07T10:20:08:   username: 'eugenonyx',
+2024-11-07T10:20:08:   firstName: 'Евгений TIME',
+2024-11-07T10:20:08:   lastName: ''
+2024-11-07T10:20:08: }
+2024-11-07T10:25:08: info: POST /api/user/activity
+2024-11-07T10:25:08: POST /api/user/activity
+2024-11-07T10:25:08: Received user activity data: {
+2024-11-07T10:25:08:   userId: 422053225,
+2024-11-07T10:25:08:   username: 'eugenonyx',
+2024-11-07T10:25:08:   firstName: 'Евгений TIME',
+2024-11-07T10:25:08:   lastName: ''
+2024-11-07T10:25:08: }
+2024-11-07T10:30:07: info: POST /api/user/activity
+2024-11-07T10:30:07: POST /api/user/activity
+2024-11-07T10:30:07: Received user activity data: {
+2024-11-07T10:30:07:   userId: 422053225,
+2024-11-07T10:30:07:   username: 'eugenonyx',
+2024-11-07T10:30:07:   firstName: 'Евгений TIME',
+2024-11-07T10:30:07:   lastName: ''
+2024-11-07T10:30:07: }
+2024-11-07T10:30:15: info: GET /api/user/settings/422053225
+2024-11-07T10:30:15: GET /api/user/settings/422053225
+2024-11-07T10:30:15: info: POST /api/user/settings
+2024-11-07T10:30:15: POST /api/user/settings
+2024-11-07T10:30:15: info: GET /api/apps
+2024-11-07T10:30:15: GET /api/apps
+2024-11-07T10:30:15: info: POST /api/user/activity
+2024-11-07T10:30:15: POST /api/user/activity
+2024-11-07T10:30:15: Received user activity data: {
+2024-11-07T10:30:15:   userId: 422053225,
+2024-11-07T10:30:15:   username: 'eugenonyx',
+2024-11-07T10:30:15:   firstName: 'Евгений TIME',
+2024-11-07T10:30:15:   lastName: ''
+2024-11-07T10:30:15: }
+2024-11-07T10:30:15: info: Fetched 60 apps. Sort type: alphabet
+2024-11-07T10:30:15: info: GET /api/apps
+2024-11-07T10:30:15: GET /api/apps
+2024-11-07T10:30:15: info: Fetched 60 apps. Sort type: alphabet
+2024-11-07T10:30:16: info: GET /api/favorites/422053225
+2024-11-07T10:30:16: GET /api/favorites/422053225
+2024-11-07T10:30:23: info: POST /api/apps/66a1fdeeadd4ebeeacf8414d/launch
+2024-11-07T10:30:23: POST /api/apps/66a1fdeeadd4ebeeacf8414d/launch
+2024-11-07T10:30:23: Received launch request for app ID: 66a1fdeeadd4ebeeacf8414d
+2024-11-07T10:30:23: Request body: { userId: '422053225' }
+2024-11-07T10:30:23: Incremented launch count for app 66a1fdeeadd4ebeeacf8414d
+2024-11-07T10:30:23: UserAction created for user 66aeafd5805b42c1259fd46b, app 66a1fdeeadd4ebeeacf8414d
+2024-11-07T10:30:23: App launch processed. App ID: 66a1fdeeadd4ebeeacf8414d, Launch count: 10
+2024-11-07T10:30:23: info: POST /api/user/activity
+2024-11-07T10:30:23: POST /api/user/activity
+2024-11-07T10:30:23: Received user activity data: {
+2024-11-07T10:30:23:   userId: '422053225',
+2024-11-07T10:30:23:   action: 'launch',
+2024-11-07T10:30:23:   appId: '66a1fdeeadd4ebeeacf8414d'
+2024-11-07T10:30:23: }
+2024-11-07T10:34:29: info: GET /api/user/settings/422053225
+2024-11-07T10:34:29: GET /api/user/settings/422053225
+2024-11-07T10:34:29: info: GET /api/apps
+2024-11-07T10:34:29: GET /api/apps
+2024-11-07T10:34:29: info: POST /api/user/settings
+2024-11-07T10:34:29: POST /api/user/settings
+2024-11-07T10:34:29: info: Fetched 60 apps. Sort type: alphabet
+2024-11-07T10:34:29: info: POST /api/user/activity
+2024-11-07T10:34:29: POST /api/user/activity
+2024-11-07T10:34:29: Received user activity data: {
+2024-11-07T10:34:29:   userId: 422053225,
+2024-11-07T10:34:29:   username: 'eugenonyx',
+2024-11-07T10:34:29:   firstName: 'Евгений TIME',
+2024-11-07T10:34:29:   lastName: ''
+2024-11-07T10:34:29: }
+2024-11-07T10:34:29: info: GET /api/apps
+2024-11-07T10:34:29: GET /api/apps
+2024-11-07T10:34:29: info: Fetched 60 apps. Sort type: alphabet
+2024-11-07T10:34:29: info: GET /api/favorites/422053225
+2024-11-07T10:34:29: GET /api/favorites/422053225
+2024-11-07T10:34:48: info: GET /api/user/settings/422053225
+2024-11-07T10:34:48: GET /api/user/settings/422053225
+2024-11-07T10:34:48: info: GET /api/apps
+2024-11-07T10:34:48: GET /api/apps
+2024-11-07T10:34:48: info: Fetched 60 apps. Sort type: alphabet
+2024-11-07T10:34:48: info: POST /api/user/activity
+2024-11-07T10:34:48: POST /api/user/activity
+2024-11-07T10:34:48: Received user activity data: {
+2024-11-07T10:34:48:   userId: 422053225,
+2024-11-07T10:34:48:   username: 'eugenonyx',
+2024-11-07T10:34:48:   firstName: 'Евгений TIME',
+2024-11-07T10:34:48:   lastName: ''
+2024-11-07T10:34:48: }
+2024-11-07T10:34:48: info: POST /api/user/settings
+2024-11-07T10:34:48: POST /api/user/settings
+2024-11-07T10:34:48: info: GET /api/apps
+2024-11-07T10:34:48: GET /api/apps
+2024-11-07T10:34:48: info: Fetched 60 apps. Sort type: alphabet
+2024-11-07T10:34:48: info: GET /api/favorites/422053225
+2024-11-07T10:34:48: GET /api/favorites/422053225
+2024-11-07T10:34:51: info: POST /api/user/settings
+2024-11-07T10:34:51: POST /api/user/settings
+2024-11-07T10:34:51: info: POST /api/user/settings
+2024-11-07T10:34:51: POST /api/user/settings
+2024-11-07T10:34:56: info: GET /api/user/settings/422053225
+2024-11-07T10:34:56: GET /api/user/settings/422053225
+2024-11-07T10:34:56: info: GET /api/apps
+2024-11-07T10:34:56: GET /api/apps
+2024-11-07T10:34:56: info: POST /api/user/settings
+2024-11-07T10:34:56: POST /api/user/settings
+2024-11-07T10:34:56: info: Fetched 60 apps. Sort type: alphabet
+2024-11-07T10:34:56: info: POST /api/user/activity
+2024-11-07T10:34:56: POST /api/user/activity
+2024-11-07T10:34:56: Received user activity data: {
+2024-11-07T10:34:56:   userId: 422053225,
+2024-11-07T10:34:56:   username: 'eugenonyx',
+2024-11-07T10:34:56:   firstName: 'Евгений TIME',
+2024-11-07T10:34:56:   lastName: ''
+2024-11-07T10:34:56: }
+2024-11-07T10:34:56: info: GET /api/apps
+2024-11-07T10:34:56: GET /api/apps
+2024-11-07T10:34:56: info: Fetched 60 apps. Sort type: alphabet
+2024-11-07T10:34:56: info: POST /api/user/settings
+2024-11-07T10:34:56: POST /api/user/settings
+2024-11-07T10:34:56: info: GET /api/favorites/422053225
+2024-11-07T10:34:56: GET /api/favorites/422053225
+2024-11-07T11:27:31: info: POST /api/user/settings
+2024-11-07T11:27:31: POST /api/user/settings
+2024-11-07T11:27:31: info: GET /api/user/settings/422053225
+2024-11-07T11:27:31: GET /api/user/settings/422053225
+2024-11-07T11:27:31: info: POST /api/user/activity
+2024-11-07T11:27:31: POST /api/user/activity
+2024-11-07T11:27:31: Received user activity data: {
+2024-11-07T11:27:31:   userId: 422053225,
+2024-11-07T11:27:31:   username: 'eugenonyx',
+2024-11-07T11:27:31:   firstName: 'Евгений TIME',
+2024-11-07T11:27:31:   lastName: ''
+2024-11-07T11:27:31: }
+2024-11-07T11:27:31: info: GET /api/apps
+2024-11-07T11:27:31: GET /api/apps
+2024-11-07T11:27:31: info: Fetched 60 apps. Sort type: alphabet
+2024-11-07T11:27:31: info: GET /api/apps
+2024-11-07T11:27:31: GET /api/apps
+2024-11-07T11:27:31: info: Fetched 60 apps. Sort type: alphabet
+2024-11-07T11:27:31: info: POST /api/user/settings
+2024-11-07T11:27:31: POST /api/user/settings
+2024-11-07T11:27:31: info: GET /api/favorites/422053225
+2024-11-07T11:27:31: GET /api/favorites/422053225
+2024-11-07T13:26:11: info: GET /api/user/settings/422053225
+2024-11-07T13:26:11: GET /api/user/settings/422053225
+2024-11-07T13:26:11: info: POST /api/user/settings
+2024-11-07T13:26:11: POST /api/user/settings
+2024-11-07T13:26:11: info: GET /api/apps
+2024-11-07T13:26:11: GET /api/apps
+2024-11-07T13:26:11: info: POST /api/user/activity
+2024-11-07T13:26:11: POST /api/user/activity
+2024-11-07T13:26:11: Received user activity data: {
+2024-11-07T13:26:11:   userId: 422053225,
+2024-11-07T13:26:11:   username: 'eugenonyx',
+2024-11-07T13:26:11:   firstName: 'Евгений TIME',
+2024-11-07T13:26:11:   lastName: ''
+2024-11-07T13:26:11: }
+2024-11-07T13:26:11: info: Fetched 60 apps. Sort type: alphabet
+2024-11-07T13:26:11: info: GET /api/apps
+2024-11-07T13:26:11: GET /api/apps
+2024-11-07T13:26:11: info: Fetched 60 apps. Sort type: alphabet
+2024-11-07T13:26:11: info: POST /api/user/settings
+2024-11-07T13:26:11: POST /api/user/settings
+2024-11-07T13:26:11: info: GET /api/favorites/422053225
+2024-11-07T13:26:11: GET /api/favorites/422053225
+2024-11-07T16:53:25: info: GET /api/apps
+2024-11-07T16:53:25: GET /api/apps
+2024-11-07T16:53:25: info: Fetched 60 apps. Sort type: alphabet
+2024-11-07T16:53:26: info: GET /api/apps
+2024-11-07T16:53:26: GET /api/apps
+2024-11-07T16:53:26: info: Fetched 60 apps. Sort type: alphabet
+2024-11-07T16:53:47: info: GET /api/apps
+2024-11-07T16:53:47: GET /api/apps
+2024-11-07T16:53:47: info: Fetched 60 apps. Sort type: alphabet
+2024-11-07T16:53:47: info: GET /api/apps
+2024-11-07T16:53:47: GET /api/apps
+2024-11-07T16:53:47: info: Fetched 60 apps. Sort type: alphabet
+2024-11-07T19:44:06: info: GET /api/user/settings/422053225
+2024-11-07T19:44:06: GET /api/user/settings/422053225
+2024-11-07T19:44:06: info: POST /api/user/settings
+2024-11-07T19:44:06: POST /api/user/settings
+2024-11-07T19:44:06: info: POST /api/user/activity
+2024-11-07T19:44:06: POST /api/user/activity
+2024-11-07T19:44:06: Received user activity data: {
+2024-11-07T19:44:06:   userId: 422053225,
+2024-11-07T19:44:06:   username: 'eugenonyx',
+2024-11-07T19:44:06:   firstName: 'Евгений TIME',
+2024-11-07T19:44:06:   lastName: ''
+2024-11-07T19:44:06: }
+2024-11-07T19:44:06: info: GET /api/apps
+2024-11-07T19:44:06: GET /api/apps
+2024-11-07T19:44:06: info: Fetched 60 apps. Sort type: alphabet
+2024-11-07T19:44:07: info: POST /api/user/settings
+2024-11-07T19:44:07: POST /api/user/settings
+2024-11-07T19:44:07: info: GET /api/apps
+2024-11-07T19:44:07: GET /api/apps
+2024-11-07T19:44:07: info: Fetched 60 apps. Sort type: alphabet
+2024-11-07T19:44:07: info: GET /api/favorites/422053225
+2024-11-07T19:44:07: GET /api/favorites/422053225
+2024-11-07T19:44:24: info: POST /api/user/settings
+2024-11-07T19:44:24: POST /api/user/settings
+2024-11-07T19:44:24: info: POST /api/user/settings
+2024-11-07T19:44:24: POST /api/user/settings
+2024-11-07T19:44:24: info: POST /api/user/settings
+2024-11-07T19:44:24: POST /api/user/settings
+2024-11-07T19:44:24: info: POST /api/user/settings
+2024-11-07T19:44:24: POST /api/user/settings
+2024-11-07T19:44:26: info: POST /api/user/settings
+2024-11-07T19:44:26: POST /api/user/settings
+2024-11-07T19:44:27: info: POST /api/user/settings
+2024-11-07T19:44:27: POST /api/user/settings
+2024-11-07T19:44:28: info: POST /api/user/settings
+2024-11-07T19:44:28: POST /api/user/settings
+2024-11-07T19:44:29: info: POST /api/user/settings
+2024-11-07T19:44:29: POST /api/user/settings
+2024-11-08T03:01:50: info: GET /api/apps
+2024-11-08T03:01:50: GET /api/apps
+2024-11-08T03:01:50: info: Fetched 60 apps. Sort type: alphabet
+2024-11-08T03:01:50: info: GET /api/apps
+2024-11-08T03:01:50: GET /api/apps
+2024-11-08T03:01:50: info: Fetched 60 apps. Sort type: alphabet
+2024-11-08T06:55:10: info: GET /api/apps
+2024-11-08T06:55:10: GET /api/apps
+2024-11-08T06:55:10: info: GET /api/user/settings/422053225
+2024-11-08T06:55:10: GET /api/user/settings/422053225
+2024-11-08T06:55:10: info: Fetched 60 apps. Sort type: alphabet
+2024-11-08T06:55:10: info: POST /api/user/settings
+2024-11-08T06:55:10: POST /api/user/settings
+2024-11-08T06:55:10: info: POST /api/user/activity
+2024-11-08T06:55:10: POST /api/user/activity
+2024-11-08T06:55:10: Received user activity data: {
+2024-11-08T06:55:10:   userId: 422053225,
+2024-11-08T06:55:10:   username: 'eugenonyx',
+2024-11-08T06:55:10:   firstName: 'Евгений TIME',
+2024-11-08T06:55:10:   lastName: ''
+2024-11-08T06:55:10: }
+2024-11-08T06:55:10: info: GET /api/apps
+2024-11-08T06:55:10: GET /api/apps
+2024-11-08T06:55:10: info: Fetched 60 apps. Sort type: alphabet
+2024-11-08T06:55:11: info: GET /api/favorites/422053225
+2024-11-08T06:55:11: GET /api/favorites/422053225
+2024-11-08T06:55:11: info: POST /api/user/settings
+2024-11-08T06:55:11: POST /api/user/settings
+2024-11-08T14:45:19: info: GET /api/user/settings/422053225
+2024-11-08T14:45:19: GET /api/user/settings/422053225
+2024-11-08T14:45:19: info: POST /api/user/settings
+2024-11-08T14:45:19: POST /api/user/settings
+2024-11-08T14:45:19: info: GET /api/apps
+2024-11-08T14:45:19: GET /api/apps
+2024-11-08T14:45:19: info: Fetched 60 apps. Sort type: alphabet
+2024-11-08T14:45:19: info: POST /api/user/activity
+2024-11-08T14:45:19: POST /api/user/activity
+2024-11-08T14:45:19: Received user activity data: {
+2024-11-08T14:45:19:   userId: 422053225,
+2024-11-08T14:45:19:   username: 'eugenonyx',
+2024-11-08T14:45:19:   firstName: 'Евгений TIME',
+2024-11-08T14:45:19:   lastName: ''
+2024-11-08T14:45:19: }
+2024-11-08T14:45:19: info: GET /api/apps
+2024-11-08T14:45:19: GET /api/apps
+2024-11-08T14:45:19: info: Fetched 60 apps. Sort type: alphabet
+2024-11-08T14:45:20: info: POST /api/user/settings
+2024-11-08T14:45:20: POST /api/user/settings
+2024-11-08T14:45:20: info: GET /api/favorites/422053225
+2024-11-08T14:45:20: GET /api/favorites/422053225
+2024-11-08T14:45:25: info: POST /api/user/settings
+2024-11-08T14:45:25: POST /api/user/settings
+2024-11-08T14:45:26: info: POST /api/user/settings
+2024-11-08T14:45:26: POST /api/user/settings
+2024-11-08T15:28:51: info: POST /api/user/settings
+2024-11-08T15:28:51: POST /api/user/settings
+2024-11-08T15:28:51: info: GET /api/user/settings/422053225
+2024-11-08T15:28:51: GET /api/user/settings/422053225
+2024-11-08T15:28:51: info: GET /api/apps
+2024-11-08T15:28:51: GET /api/apps
+2024-11-08T15:28:51: info: Fetched 60 apps. Sort type: alphabet
+2024-11-08T15:28:51: info: POST /api/user/activity
+2024-11-08T15:28:51: POST /api/user/activity
+2024-11-08T15:28:51: Received user activity data: {
+2024-11-08T15:28:51:   userId: 422053225,
+2024-11-08T15:28:51:   username: 'eugenonyx',
+2024-11-08T15:28:51:   firstName: 'Евгений TIME',
+2024-11-08T15:28:51:   lastName: ''
+2024-11-08T15:28:51: }
+2024-11-08T15:28:51: info: GET /api/apps
+2024-11-08T15:28:51: GET /api/apps
+2024-11-08T15:28:51: info: Fetched 60 apps. Sort type: alphabet
+2024-11-08T15:28:51: info: GET /api/favorites/422053225
+2024-11-08T15:28:51: GET /api/favorites/422053225
+2024-11-08T15:28:53: info: POST /api/user/settings
+2024-11-08T15:28:53: POST /api/user/settings
+2024-11-08T15:28:53: info: POST /api/user/settings
+2024-11-08T15:28:53: POST /api/user/settings
+2024-11-08T15:29:50: info: POST /api/user/settings
+2024-11-08T15:29:50: POST /api/user/settings
+2024-11-08T15:30:07: info: POST /api/user/settings
+2024-11-08T15:30:07: POST /api/user/settings
+2024-11-08T15:30:09: info: POST /api/user/settings
+2024-11-08T15:30:09: POST /api/user/settings
+2024-11-08T15:30:10: info: POST /api/user/settings
+2024-11-08T15:30:10: POST /api/user/settings
+2024-11-09T21:09:50: info: GET /api/apps
+2024-11-09T21:09:50: GET /api/apps
+2024-11-09T21:09:50: info: GET /api/apps
+2024-11-09T21:09:50: GET /api/apps
+2024-11-09T21:09:50: info: Fetched 60 apps. Sort type: alphabet
+2024-11-09T21:09:50: info: Fetched 60 apps. Sort type: alphabet
+2024-11-10T03:01:59: info: GET /api/user/settings/422053225
+2024-11-10T03:01:59: GET /api/user/settings/422053225
+2024-11-10T03:01:59: info: POST /api/user/settings
+2024-11-10T03:01:59: POST /api/user/settings
+2024-11-10T03:02:00: info: GET /api/apps
+2024-11-10T03:02:00: GET /api/apps
+2024-11-10T03:02:00: info: Fetched 60 apps. Sort type: alphabet
+2024-11-10T03:02:00: info: POST /api/user/activity
+2024-11-10T03:02:00: POST /api/user/activity
+2024-11-10T03:02:00: Received user activity data: {
+2024-11-10T03:02:00:   userId: 422053225,
+2024-11-10T03:02:00:   username: 'eugenonyx',
+2024-11-10T03:02:00:   firstName: 'Евгений TIME',
+2024-11-10T03:02:00:   lastName: ''
+2024-11-10T03:02:00: }
+2024-11-10T03:02:00: info: POST /api/user/settings
+2024-11-10T03:02:00: POST /api/user/settings
+2024-11-10T03:02:00: info: GET /api/apps
+2024-11-10T03:02:00: GET /api/apps
+2024-11-10T03:02:00: info: Fetched 60 apps. Sort type: alphabet
+2024-11-10T03:02:00: info: GET /api/favorites/422053225
+2024-11-10T03:02:00: GET /api/favorites/422053225
+2024-11-10T03:02:10: info: POST /api/user/settings
+2024-11-10T03:02:10: POST /api/user/settings
+2024-11-10T03:02:11: info: POST /api/user/settings
+2024-11-10T03:02:11: POST /api/user/settings
+2024-11-10T03:02:11: info: POST /api/user/settings
+2024-11-10T03:02:11: POST /api/user/settings
+2024-11-10T03:02:12: info: POST /api/user/settings
+2024-11-10T03:02:12: POST /api/user/settings
+2024-11-10T03:02:13: info: POST /api/user/settings
+2024-11-10T03:02:13: POST /api/user/settings
+2024-11-10T03:02:13: info: POST /api/user/settings
+2024-11-10T03:02:13: POST /api/user/settings
+2024-11-10T12:17:59: info: GET /api/user/settings/1363931214
+2024-11-10T12:17:59: GET /api/user/settings/1363931214
+2024-11-10T12:17:59: info: POST /api/user/settings
+2024-11-10T12:17:59: POST /api/user/settings
+2024-11-10T12:17:59: info: GET /api/apps
+2024-11-10T12:17:59: GET /api/apps
+2024-11-10T12:17:59: info: POST /api/user/activity
+2024-11-10T12:17:59: POST /api/user/activity
+2024-11-10T12:17:59: Received user activity data: {
+2024-11-10T12:17:59:   userId: 1363931214,
+2024-11-10T12:17:59:   username: 'Sem_Pru',
+2024-11-10T12:17:59:   firstName: 'Sem',
+2024-11-10T12:17:59:   lastName: ''
+2024-11-10T12:17:59: }
+2024-11-10T12:17:59: info: Fetched 60 apps. Sort type: alphabet
+2024-11-10T12:17:59: info: GET /api/favorites/1363931214
+2024-11-10T12:17:59: GET /api/favorites/1363931214
+2024-11-10T12:18:03: info: POST /api/apps/66a1fdabadd4ebeeacf8414a/launch
+2024-11-10T12:18:03: POST /api/apps/66a1fdabadd4ebeeacf8414a/launch
+2024-11-10T12:18:03: Received launch request for app ID: 66a1fdabadd4ebeeacf8414a
+2024-11-10T12:18:03: Request body: { userId: '1363931214' }
+2024-11-10T12:18:03: Incremented launch count for app 66a1fdabadd4ebeeacf8414a
+2024-11-10T12:18:03: UserAction created for user 66b2157c805b42c125a04bca, app 66a1fdabadd4ebeeacf8414a
+2024-11-10T12:18:03: App launch processed. App ID: 66a1fdabadd4ebeeacf8414a, Launch count: 36
+2024-11-10T12:18:03: info: POST /api/user/activity
+2024-11-10T12:18:03: POST /api/user/activity
+2024-11-10T12:18:03: Received user activity data: {
+2024-11-10T12:18:03:   userId: '1363931214',
+2024-11-10T12:18:03:   action: 'launch',
+2024-11-10T12:18:03:   appId: '66a1fdabadd4ebeeacf8414a'
+2024-11-10T12:18:03: }
+2024-11-10T14:15:20: info: GET /api/user/settings/422053225
+2024-11-10T14:15:20: GET /api/user/settings/422053225
+2024-11-10T14:15:20: info: GET /api/apps
+2024-11-10T14:15:20: GET /api/apps
+2024-11-10T14:15:20: info: Fetched 60 apps. Sort type: alphabet
+2024-11-10T14:15:20: info: POST /api/user/settings
+2024-11-10T14:15:20: POST /api/user/settings
+2024-11-10T14:15:20: info: POST /api/user/activity
+2024-11-10T14:15:20: POST /api/user/activity
+2024-11-10T14:15:20: Received user activity data: {
+2024-11-10T14:15:20:   userId: 422053225,
+2024-11-10T14:15:20:   username: 'eugenonyx',
+2024-11-10T14:15:20:   firstName: 'Евгений TIME',
+2024-11-10T14:15:20:   lastName: ''
+2024-11-10T14:15:20: }
+2024-11-10T14:15:20: info: POST /api/user/settings
+2024-11-10T14:15:20: POST /api/user/settings
+2024-11-10T14:15:20: info: GET /api/apps
+2024-11-10T14:15:20: GET /api/apps
+2024-11-10T14:15:20: info: Fetched 60 apps. Sort type: alphabet
+2024-11-10T14:15:20: info: GET /api/favorites/422053225
+2024-11-10T14:15:20: GET /api/favorites/422053225
+2024-11-10T14:16:01: info: POST /api/login
+2024-11-10T14:16:01: POST /api/login
+2024-11-10T14:16:01: info: GET /api/apps
+2024-11-10T14:16:01: GET /api/apps
+2024-11-10T14:16:01: info: Fetched 60 apps. Sort type: alphabet
+2024-11-10T14:16:07: info: DELETE /api/apps/66b0c1899007df8a00da30b9
+2024-11-10T14:16:07: DELETE /api/apps/66b0c1899007df8a00da30b9
+2024-11-10T14:16:07: info: GET /api/apps
+2024-11-10T14:16:07: GET /api/apps
+2024-11-10T14:16:07: info: Fetched 59 apps. Sort type: alphabet
+2024-11-10T14:16:16: info: GET /api/user/settings/422053225
+2024-11-10T14:16:16: GET /api/user/settings/422053225
+2024-11-10T14:16:16: info: POST /api/user/settings
+2024-11-10T14:16:16: POST /api/user/settings
+2024-11-10T14:16:16: info: POST /api/user/activity
+2024-11-10T14:16:16: POST /api/user/activity
+2024-11-10T14:16:16: Received user activity data: {
+2024-11-10T14:16:16:   userId: 422053225,
+2024-11-10T14:16:16:   username: 'eugenonyx',
+2024-11-10T14:16:16:   firstName: 'Евгений TIME',
+2024-11-10T14:16:16:   lastName: ''
+2024-11-10T14:16:16: }
+2024-11-10T14:16:16: info: GET /api/apps
+2024-11-10T14:16:16: GET /api/apps
+2024-11-10T14:16:16: info: Fetched 59 apps. Sort type: alphabet
+2024-11-10T14:16:16: info: POST /api/user/settings
+2024-11-10T14:16:16: POST /api/user/settings
+2024-11-10T14:16:16: info: GET /api/apps
+2024-11-10T14:16:16: GET /api/apps
+2024-11-10T14:16:16: info: Fetched 59 apps. Sort type: alphabet
+2024-11-10T14:16:17: info: GET /api/favorites/422053225
+2024-11-10T14:16:17: GET /api/favorites/422053225
+2024-11-10T14:49:32: info: GET /api/user/settings/422053225
+2024-11-10T14:49:32: GET /api/user/settings/422053225
+2024-11-10T14:49:32: info: POST /api/user/settings
+2024-11-10T14:49:32: POST /api/user/settings
+2024-11-10T14:49:32: info: POST /api/user/activity
+2024-11-10T14:49:32: POST /api/user/activity
+2024-11-10T14:49:32: Received user activity data: {
+2024-11-10T14:49:32:   userId: 422053225,
+2024-11-10T14:49:32:   username: 'eugenonyx',
+2024-11-10T14:49:32:   firstName: 'Евгений TIME',
+2024-11-10T14:49:32:   lastName: ''
+2024-11-10T14:49:32: }
+2024-11-10T14:49:32: info: GET /api/apps
+2024-11-10T14:49:32: GET /api/apps
+2024-11-10T14:49:32: info: Fetched 59 apps. Sort type: alphabet
+2024-11-10T14:49:32: info: GET /api/apps
+2024-11-10T14:49:32: GET /api/apps
+2024-11-10T14:49:32: info: Fetched 59 apps. Sort type: alphabet
+2024-11-10T14:49:33: info: POST /api/user/settings
+2024-11-10T14:49:33: POST /api/user/settings
+2024-11-10T14:49:33: info: GET /api/favorites/422053225
+2024-11-10T14:49:33: GET /api/favorites/422053225
+2024-11-10T14:53:49: info: POST /api/apps/66b15564659c719b8aa19560/launch
+2024-11-10T14:53:49: POST /api/apps/66b15564659c719b8aa19560/launch
+2024-11-10T14:53:49: Received launch request for app ID: 66b15564659c719b8aa19560
+2024-11-10T14:53:49: Request body: { userId: '422053225' }
+2024-11-10T14:53:49: Incremented launch count for app 66b15564659c719b8aa19560
+2024-11-10T14:53:49: UserAction created for user 66aeafd5805b42c1259fd46b, app 66b15564659c719b8aa19560
+2024-11-10T14:53:49: App launch processed. App ID: 66b15564659c719b8aa19560, Launch count: 18
+2024-11-10T14:53:49: info: POST /api/user/activity
+2024-11-10T14:53:49: POST /api/user/activity
+2024-11-10T14:53:49: Received user activity data: {
+2024-11-10T14:53:49:   userId: '422053225',
+2024-11-10T14:53:49:   action: 'launch',
+2024-11-10T14:53:49:   appId: '66b15564659c719b8aa19560'
+2024-11-10T14:53:49: }
+2024-11-10T14:54:32: info: POST /api/user/activity
+2024-11-10T14:54:32: POST /api/user/activity
+2024-11-10T14:54:32: Received user activity data: {
+2024-11-10T14:54:32:   userId: 422053225,
+2024-11-10T14:54:32:   username: 'eugenonyx',
+2024-11-10T14:54:32:   firstName: 'Евгений TIME',
+2024-11-10T14:54:32:   lastName: ''
+2024-11-10T14:54:32: }
+2024-11-10T14:54:38: info: POST /api/apps/66b1565a659c719b8aa1956c/launch
+2024-11-10T14:54:38: POST /api/apps/66b1565a659c719b8aa1956c/launch
+2024-11-10T14:54:38: Received launch request for app ID: 66b1565a659c719b8aa1956c
+2024-11-10T14:54:38: Request body: { userId: '422053225' }
+2024-11-10T14:54:38: Incremented launch count for app 66b1565a659c719b8aa1956c
+2024-11-10T14:54:38: UserAction created for user 66aeafd5805b42c1259fd46b, app 66b1565a659c719b8aa1956c
+2024-11-10T14:54:38: App launch processed. App ID: 66b1565a659c719b8aa1956c, Launch count: 25
+2024-11-10T14:54:38: info: POST /api/user/activity
+2024-11-10T14:54:38: POST /api/user/activity
+2024-11-10T14:54:38: Received user activity data: {
+2024-11-10T14:54:38:   userId: '422053225',
+2024-11-10T14:54:38:   action: 'launch',
+2024-11-10T14:54:38:   appId: '66b1565a659c719b8aa1956c'
+2024-11-10T14:54:38: }
+2024-11-10T14:59:33: info: POST /api/user/activity
+2024-11-10T14:59:33: POST /api/user/activity
+2024-11-10T14:59:33: Received user activity data: {
+2024-11-10T14:59:33:   userId: 422053225,
+2024-11-10T14:59:33:   username: 'eugenonyx',
+2024-11-10T14:59:33:   firstName: 'Евгений TIME',
+2024-11-10T14:59:33:   lastName: ''
+2024-11-10T14:59:33: }
+2024-11-10T15:02:11: info: GET /api/user/settings/422053225
+2024-11-10T15:02:11: GET /api/user/settings/422053225
+2024-11-10T15:02:11: info: POST /api/user/settings
+2024-11-10T15:02:11: POST /api/user/settings
+2024-11-10T15:02:11: info: GET /api/apps
+2024-11-10T15:02:11: GET /api/apps
+2024-11-10T15:02:11: info: Fetched 59 apps. Sort type: alphabet
+2024-11-10T15:02:11: info: POST /api/user/activity
+2024-11-10T15:02:11: POST /api/user/activity
+2024-11-10T15:02:11: Received user activity data: {
+2024-11-10T15:02:11:   userId: 422053225,
+2024-11-10T15:02:11:   username: 'eugenonyx',
+2024-11-10T15:02:11:   firstName: 'Евгений TIME',
+2024-11-10T15:02:11:   lastName: ''
+2024-11-10T15:02:11: }
+2024-11-10T15:02:11: info: GET /api/apps
+2024-11-10T15:02:11: GET /api/apps
+2024-11-10T15:02:11: info: Fetched 59 apps. Sort type: alphabet
+2024-11-10T15:02:11: info: POST /api/user/settings
+2024-11-10T15:02:11: POST /api/user/settings
+2024-11-10T15:02:11: info: GET /api/favorites/422053225
+2024-11-10T15:02:11: GET /api/favorites/422053225
+2024-11-10T15:17:15: info: POST /api/user/settings
+2024-11-10T15:17:15: POST /api/user/settings
+2024-11-10T15:17:15: info: GET /api/user/settings/422053225
+2024-11-10T15:17:15: GET /api/user/settings/422053225
+2024-11-10T15:17:15: info: GET /api/apps
+2024-11-10T15:17:15: GET /api/apps
+2024-11-10T15:17:15: info: Fetched 59 apps. Sort type: alphabet
+2024-11-10T15:17:15: info: POST /api/user/activity
+2024-11-10T15:17:15: POST /api/user/activity
+2024-11-10T15:17:15: Received user activity data: {
+2024-11-10T15:17:15:   userId: 422053225,
+2024-11-10T15:17:15:   username: 'eugenonyx',
+2024-11-10T15:17:15:   firstName: 'Евгений TIME',
+2024-11-10T15:17:15:   lastName: ''
+2024-11-10T15:17:15: }
+2024-11-10T15:17:15: info: POST /api/user/settings
+2024-11-10T15:17:15: POST /api/user/settings
+2024-11-10T15:17:15: info: GET /api/apps
+2024-11-10T15:17:15: GET /api/apps
+2024-11-10T15:17:15: info: Fetched 59 apps. Sort type: alphabet
+2024-11-10T15:17:15: info: GET /api/favorites/422053225
+2024-11-10T15:17:15: GET /api/favorites/422053225
+2024-11-10T15:22:15: info: POST /api/user/activity
+2024-11-10T15:22:15: POST /api/user/activity
+2024-11-10T15:22:15: Received user activity data: {
+2024-11-10T15:22:15:   userId: 422053225,
+2024-11-10T15:22:15:   username: 'eugenonyx',
+2024-11-10T15:22:15:   firstName: 'Евгений TIME',
+2024-11-10T15:22:15:   lastName: ''
+2024-11-10T15:22:15: }
+2024-11-10T15:27:15: info: POST /api/user/activity
+2024-11-10T15:27:15: POST /api/user/activity
+2024-11-10T15:27:15: Received user activity data: {
+2024-11-10T15:27:15:   userId: 422053225,
+2024-11-10T15:27:15:   username: 'eugenonyx',
+2024-11-10T15:27:15:   firstName: 'Евгений TIME',
+2024-11-10T15:27:15:   lastName: ''
+2024-11-10T15:27:15: }
+2024-11-10T15:32:15: info: POST /api/user/activity
+2024-11-10T15:32:15: POST /api/user/activity
+2024-11-10T15:32:15: Received user activity data: {
+2024-11-10T15:32:15:   userId: 422053225,
+2024-11-10T15:32:15:   username: 'eugenonyx',
+2024-11-10T15:32:15:   firstName: 'Евгений TIME',
+2024-11-10T15:32:15:   lastName: ''
+2024-11-10T15:32:15: }
+2024-11-10T15:37:15: info: POST /api/user/activity
+2024-11-10T15:37:15: POST /api/user/activity
+2024-11-10T15:37:15: Received user activity data: {
+2024-11-10T15:37:15:   userId: 422053225,
+2024-11-10T15:37:15:   username: 'eugenonyx',
+2024-11-10T15:37:15:   firstName: 'Евгений TIME',
+2024-11-10T15:37:15:   lastName: ''
+2024-11-10T15:37:15: }
+2024-11-10T15:42:15: info: POST /api/user/activity
+2024-11-10T15:42:15: POST /api/user/activity
+2024-11-10T15:42:15: Received user activity data: {
+2024-11-10T15:42:15:   userId: 422053225,
+2024-11-10T15:42:15:   username: 'eugenonyx',
+2024-11-10T15:42:15:   firstName: 'Евгений TIME',
+2024-11-10T15:42:15:   lastName: ''
+2024-11-10T15:42:15: }
+2024-11-10T15:47:15: info: POST /api/user/activity
+2024-11-10T15:47:15: POST /api/user/activity
+2024-11-10T15:47:15: Received user activity data: {
+2024-11-10T15:47:15:   userId: 422053225,
+2024-11-10T15:47:15:   username: 'eugenonyx',
+2024-11-10T15:47:15:   firstName: 'Евгений TIME',
+2024-11-10T15:47:15:   lastName: ''
+2024-11-10T15:47:15: }
+2024-11-10T16:25:36: info: GET /api/user/settings/422053225
+2024-11-10T16:25:36: GET /api/user/settings/422053225
+2024-11-10T16:25:36: info: GET /api/apps
+2024-11-10T16:25:36: GET /api/apps
+2024-11-10T16:25:36: info: Fetched 59 apps. Sort type: alphabet
+2024-11-10T16:25:36: info: POST /api/user/settings
+2024-11-10T16:25:36: POST /api/user/settings
+2024-11-10T16:25:36: info: POST /api/user/activity
+2024-11-10T16:25:36: POST /api/user/activity
+2024-11-10T16:25:36: Received user activity data: {
+2024-11-10T16:25:36:   userId: 422053225,
+2024-11-10T16:25:36:   username: 'eugenonyx',
+2024-11-10T16:25:36:   firstName: 'Евгений TIME',
+2024-11-10T16:25:36:   lastName: ''
+2024-11-10T16:25:36: }
+2024-11-10T16:25:36: info: GET /api/apps
+2024-11-10T16:25:36: GET /api/apps
+2024-11-10T16:25:36: info: Fetched 59 apps. Sort type: alphabet
+2024-11-10T16:25:36: info: POST /api/user/settings
+2024-11-10T16:25:36: POST /api/user/settings
+2024-11-10T16:25:36: info: GET /api/favorites/422053225
+2024-11-10T16:25:36: GET /api/favorites/422053225
+2024-11-10T17:01:35: info: GET /api/apps
+2024-11-10T17:01:35: GET /api/apps
+2024-11-10T17:01:35: info: Fetched 59 apps. Sort type: alphabet
+2024-11-10T17:01:35: info: GET /api/user/settings/422053225
+2024-11-10T17:01:35: GET /api/user/settings/422053225
+2024-11-10T17:01:35: info: POST /api/user/activity
+2024-11-10T17:01:35: POST /api/user/activity
+2024-11-10T17:01:35: Received user activity data: {
+2024-11-10T17:01:35:   userId: 422053225,
+2024-11-10T17:01:35:   username: 'eugenonyx',
+2024-11-10T17:01:35:   firstName: 'Евгений TIME',
+2024-11-10T17:01:35:   lastName: ''
+2024-11-10T17:01:35: }
+2024-11-10T17:01:35: info: POST /api/user/settings
+2024-11-10T17:01:35: POST /api/user/settings
+2024-11-10T17:01:35: info: GET /api/apps
+2024-11-10T17:01:35: GET /api/apps
+2024-11-10T17:01:35: info: Fetched 59 apps. Sort type: alphabet
+2024-11-10T17:01:35: info: GET /api/favorites/422053225
+2024-11-10T17:01:35: GET /api/favorites/422053225
+2024-11-10T17:01:35: info: POST /api/user/settings
+2024-11-10T17:01:35: POST /api/user/settings
+2024-11-10T17:13:34: info: GET /api/user/settings/422053225
+2024-11-10T17:13:34: GET /api/user/settings/422053225
+2024-11-10T17:13:34: info: GET /api/apps
+2024-11-10T17:13:34: GET /api/apps
+2024-11-10T17:13:34: info: Fetched 59 apps. Sort type: alphabet
+2024-11-10T17:13:34: info: POST /api/user/settings
+2024-11-10T17:13:34: POST /api/user/settings
+2024-11-10T17:13:34: info: POST /api/user/activity
+2024-11-10T17:13:34: POST /api/user/activity
+2024-11-10T17:13:34: Received user activity data: {
+2024-11-10T17:13:34:   userId: 422053225,
+2024-11-10T17:13:34:   username: 'eugenonyx',
+2024-11-10T17:13:34:   firstName: 'Евгений TIME',
+2024-11-10T17:13:34:   lastName: ''
+2024-11-10T17:13:34: }
+2024-11-10T17:13:34: info: GET /api/apps
+2024-11-10T17:13:34: GET /api/apps
+2024-11-10T17:13:34: info: Fetched 59 apps. Sort type: alphabet
+2024-11-10T17:13:34: info: POST /api/user/settings
+2024-11-10T17:13:34: POST /api/user/settings
+2024-11-10T17:13:34: info: GET /api/favorites/422053225
+2024-11-10T17:13:34: GET /api/favorites/422053225
+2024-11-10T20:55:17: info: POST /api/user/settings
+2024-11-10T20:55:17: POST /api/user/settings
+2024-11-10T20:55:17: info: GET /api/user/settings/422053225
+2024-11-10T20:55:17: GET /api/user/settings/422053225
+2024-11-10T20:55:17: info: GET /api/apps
+2024-11-10T20:55:17: GET /api/apps
+2024-11-10T20:55:17: info: Fetched 59 apps. Sort type: alphabet
+2024-11-10T20:55:17: info: POST /api/user/activity
+2024-11-10T20:55:17: POST /api/user/activity
+2024-11-10T20:55:17: Received user activity data: {
+2024-11-10T20:55:17:   userId: 422053225,
+2024-11-10T20:55:17:   username: 'eugenonyx',
+2024-11-10T20:55:17:   firstName: 'Евгений TIME',
+2024-11-10T20:55:17:   lastName: ''
+2024-11-10T20:55:17: }
+2024-11-10T20:55:17: info: GET /api/apps
+2024-11-10T20:55:17: GET /api/apps
+2024-11-10T20:55:17: info: Fetched 59 apps. Sort type: alphabet
+2024-11-10T20:55:17: info: GET /api/favorites/422053225
+2024-11-10T20:55:17: GET /api/favorites/422053225
+2024-11-10T20:55:19: info: POST /api/user/settings
+2024-11-10T20:55:19: POST /api/user/settings
+2024-11-10T20:55:20: info: POST /api/user/settings
+2024-11-10T20:55:20: POST /api/user/settings
+2024-11-11T00:47:57: info: GET /api/apps
+2024-11-11T00:47:57: GET /api/apps
+2024-11-11T00:47:57: info: Fetched 59 apps. Sort type: alphabet
+2024-11-11T00:47:57: info: GET /api/apps
+2024-11-11T00:47:57: GET /api/apps
+2024-11-11T00:47:57: info: Fetched 59 apps. Sort type: alphabet
+2024-11-11T00:48:38: info: GET /api/apps
+2024-11-11T00:48:38: GET /api/apps
+2024-11-11T00:48:38: info: Fetched 59 apps. Sort type: alphabet
+2024-11-11T00:48:38: info: GET /api/apps
+2024-11-11T00:48:38: GET /api/apps
+2024-11-11T00:48:38: info: Fetched 59 apps. Sort type: alphabet
+2024-11-11T00:48:39: info: GET /api/apps
+2024-11-11T00:48:39: GET /api/apps
+2024-11-11T00:48:39: info: Fetched 59 apps. Sort type: alphabet
+2024-11-11T00:48:39: info: GET /api/apps
+2024-11-11T00:48:39: GET /api/apps
+2024-11-11T00:48:39: info: Fetched 59 apps. Sort type: alphabet
+2024-11-11T10:27:09: info: GET /api/user/settings/422053225
+2024-11-11T10:27:09: GET /api/user/settings/422053225
+2024-11-11T10:27:09: info: GET /api/apps
+2024-11-11T10:27:09: GET /api/apps
+2024-11-11T10:27:09: info: POST /api/user/activity
+2024-11-11T10:27:09: POST /api/user/activity
+2024-11-11T10:27:09: Received user activity data: {
+2024-11-11T10:27:09:   userId: 422053225,
+2024-11-11T10:27:09:   username: 'eugenonyx',
+2024-11-11T10:27:09:   firstName: 'Евгений TIME',
+2024-11-11T10:27:09:   lastName: ''
+2024-11-11T10:27:09: }
+2024-11-11T10:27:09: info: Fetched 59 apps. Sort type: alphabet
+2024-11-11T10:27:09: info: POST /api/user/settings
+2024-11-11T10:27:09: POST /api/user/settings
+2024-11-11T10:27:09: info: GET /api/apps
+2024-11-11T10:27:09: GET /api/apps
+2024-11-11T10:27:09: info: Fetched 59 apps. Sort type: alphabet
+2024-11-11T10:27:09: info: POST /api/user/settings
+2024-11-11T10:27:09: POST /api/user/settings
+2024-11-11T10:27:09: info: GET /api/favorites/422053225
+2024-11-11T10:27:09: GET /api/favorites/422053225
+2024-11-11T10:27:24: info: POST /api/user/settings
+2024-11-11T10:27:24: POST /api/user/settings
+2024-11-11T10:27:25: info: POST /api/user/settings
+2024-11-11T10:27:25: POST /api/user/settings
+2024-11-11T10:27:31: info: POST /api/user/settings
+2024-11-11T10:27:31: POST /api/user/settings
+2024-11-11T10:27:38: info: POST /api/user/settings
+2024-11-11T10:27:38: POST /api/user/settings
+2024-11-11T19:28:20: info: POST /api/user/settings
+2024-11-11T19:28:20: POST /api/user/settings
+2024-11-11T19:28:20: info: GET /api/user/settings/7142408548
+2024-11-11T19:28:20: GET /api/user/settings/7142408548
+2024-11-11T19:28:20: info: GET /api/apps
+2024-11-11T19:28:20: GET /api/apps
+2024-11-11T19:28:20: info: Fetched 59 apps. Sort type: alphabet
+2024-11-11T19:28:20: info: POST /api/user/activity
+2024-11-11T19:28:20: POST /api/user/activity
+2024-11-11T19:28:20: Received user activity data: {
+2024-11-11T19:28:20:   userId: 7142408548,
+2024-11-11T19:28:20:   username: 'notsensei',
+2024-11-11T19:28:20:   firstName: 'TIME',
+2024-11-11T19:28:20:   lastName: 'Sensei'
+2024-11-11T19:28:20: }
+2024-11-11T19:28:20: info: GET /api/apps
+2024-11-11T19:28:20: GET /api/apps
+2024-11-11T19:28:20: info: Fetched 59 apps. Sort type: alphabet
+2024-11-11T19:28:20: info: GET /api/favorites/7142408548
+2024-11-11T19:28:20: GET /api/favorites/7142408548
+2024-11-11T19:28:22: info: POST /api/apps/66d0971fc0ad82d5bfcb8e46/launch
+2024-11-11T19:28:22: POST /api/apps/66d0971fc0ad82d5bfcb8e46/launch
+2024-11-11T19:28:22: Received launch request for app ID: 66d0971fc0ad82d5bfcb8e46
+2024-11-11T19:28:22: Request body: { userId: '7142408548' }
+2024-11-11T19:28:22: Incremented launch count for app 66d0971fc0ad82d5bfcb8e46
+2024-11-11T19:28:22: UserAction created for user 66b0a836805b42c125a01288, app 66d0971fc0ad82d5bfcb8e46
+2024-11-11T19:28:22: App launch processed. App ID: 66d0971fc0ad82d5bfcb8e46, Launch count: 4
+2024-11-11T19:28:22: info: POST /api/user/activity
+2024-11-11T19:28:22: POST /api/user/activity
+2024-11-11T19:28:22: Received user activity data: {
+2024-11-11T19:28:22:   userId: '7142408548',
+2024-11-11T19:28:22:   action: 'launch',
+2024-11-11T19:28:22:   appId: '66d0971fc0ad82d5bfcb8e46'
+2024-11-11T19:28:22: }
+2024-11-11T19:28:31: info: POST /api/user/settings
+2024-11-11T19:28:31: POST /api/user/settings
+2024-11-11T19:28:41: info: POST /api/user/settings
+2024-11-11T19:28:41: POST /api/user/settings
+2024-11-12T22:12:32: info: GET /api/user/settings/579520717
+2024-11-12T22:12:32: GET /api/user/settings/579520717
+2024-11-12T22:12:32: info: GET /api/apps
+2024-11-12T22:12:32: GET /api/apps
+2024-11-12T22:12:32: info: Fetched 59 apps. Sort type: alphabet
+2024-11-12T22:12:32: info: POST /api/user/settings
+2024-11-12T22:12:32: POST /api/user/settings
+2024-11-12T22:12:32: info: POST /api/user/activity
+2024-11-12T22:12:32: POST /api/user/activity
+2024-11-12T22:12:32: Received user activity data: {
+2024-11-12T22:12:32:   userId: 579520717,
+2024-11-12T22:12:32:   username: 'Serg2024777',
+2024-11-12T22:12:32:   firstName: 'Сергей',
+2024-11-12T22:12:32:   lastName: 'Стативка'
+2024-11-12T22:12:32: }
+2024-11-12T22:12:32: info: GET /api/apps
+2024-11-12T22:12:32: GET /api/apps
+2024-11-12T22:12:32: info: Fetched 59 apps. Sort type: alphabet
+2024-11-12T22:12:32: info: GET /api/favorites/579520717
+2024-11-12T22:12:32: GET /api/favorites/579520717
+2024-11-12T22:12:36: info: POST /api/apps/66a0c51b5920cf8245ebbba4/launch
+2024-11-12T22:12:36: POST /api/apps/66a0c51b5920cf8245ebbba4/launch
+2024-11-12T22:12:36: Received launch request for app ID: 66a0c51b5920cf8245ebbba4
+2024-11-12T22:12:36: Request body: { userId: '579520717' }
+2024-11-12T22:12:36: Incremented launch count for app 66a0c51b5920cf8245ebbba4
+2024-11-12T22:12:36: UserAction created for user 6733d2d0ef91f85cc88ab2de, app 66a0c51b5920cf8245ebbba4
+2024-11-12T22:12:36: App launch processed. App ID: 66a0c51b5920cf8245ebbba4, Launch count: 34
+2024-11-12T22:12:36: info: POST /api/user/activity
+2024-11-12T22:12:36: POST /api/user/activity
+2024-11-12T22:12:36: Received user activity data: {
+2024-11-12T22:12:36:   userId: '579520717',
+2024-11-12T22:12:36:   action: 'launch',
+2024-11-12T22:12:36:   appId: '66a0c51b5920cf8245ebbba4'
+2024-11-12T22:12:36: }
+2024-11-12T22:53:54: info: GET /api/apps
+2024-11-12T22:53:54: GET /api/apps
+2024-11-12T22:53:54: info: Fetched 59 apps. Sort type: alphabet
+2024-11-12T22:53:54: info: GET /api/apps
+2024-11-12T22:53:54: GET /api/apps
+2024-11-12T22:53:54: info: Fetched 59 apps. Sort type: alphabet
+2024-11-12T22:54:33: info: GET /api/apps
+2024-11-12T22:54:33: GET /api/apps
+2024-11-12T22:54:33: info: Fetched 59 apps. Sort type: alphabet
+2024-11-13T00:43:18: info: GET /api/apps
+2024-11-13T00:43:18: GET /api/apps
+2024-11-13T00:43:18: info: Fetched 59 apps. Sort type: alphabet
+2024-11-13T00:43:18: info: GET /api/apps
+2024-11-13T00:43:18: GET /api/apps
+2024-11-13T00:43:18: info: Fetched 59 apps. Sort type: alphabet
+2024-11-13T00:45:45: info: GET /api/apps
+2024-11-13T00:45:45: GET /api/apps
+2024-11-13T00:45:45: info: Fetched 59 apps. Sort type: alphabet
+2024-11-13T15:29:49: info: GET /api/user/settings/422053225
+2024-11-13T15:29:49: GET /api/user/settings/422053225
+2024-11-13T15:29:49: info: POST /api/user/settings
+2024-11-13T15:29:49: POST /api/user/settings
+2024-11-13T15:29:49: info: POST /api/user/activity
+2024-11-13T15:29:49: POST /api/user/activity
+2024-11-13T15:29:49: Received user activity data: {
+2024-11-13T15:29:49:   userId: 422053225,
+2024-11-13T15:29:49:   username: 'eugenonyx',
+2024-11-13T15:29:49:   firstName: 'Евгений TIME',
+2024-11-13T15:29:49:   lastName: ''
+2024-11-13T15:29:49: }
+2024-11-13T15:29:49: info: GET /api/apps
+2024-11-13T15:29:49: GET /api/apps
+2024-11-13T15:29:49: info: Fetched 59 apps. Sort type: alphabet
+2024-11-13T15:29:49: info: POST /api/user/settings
+2024-11-13T15:29:49: POST /api/user/settings
+2024-11-13T15:29:49: info: GET /api/apps
+2024-11-13T15:29:49: GET /api/apps
+2024-11-13T15:29:49: info: Fetched 59 apps. Sort type: alphabet
+2024-11-13T15:29:49: info: GET /api/favorites/422053225
+2024-11-13T15:29:49: GET /api/favorites/422053225
+2024-11-13T18:45:20: info: POST /api/user/settings
+2024-11-13T18:45:20: POST /api/user/settings
+2024-11-13T18:45:20: info: GET /api/user/settings/422053225
+2024-11-13T18:45:20: GET /api/user/settings/422053225
+2024-11-13T18:45:20: info: GET /api/apps
+2024-11-13T18:45:20: GET /api/apps
+2024-11-13T18:45:20: info: Fetched 59 apps. Sort type: alphabet
+2024-11-13T18:45:20: info: POST /api/user/activity
+2024-11-13T18:45:20: POST /api/user/activity
+2024-11-13T18:45:20: Received user activity data: {
+2024-11-13T18:45:20:   userId: 422053225,
+2024-11-13T18:45:20:   username: 'eugenonyx',
+2024-11-13T18:45:20:   firstName: 'Евгений TIME',
+2024-11-13T18:45:20:   lastName: ''
+2024-11-13T18:45:20: }
+2024-11-13T18:45:20: info: GET /api/apps
+2024-11-13T18:45:20: GET /api/apps
+2024-11-13T18:45:20: info: Fetched 59 apps. Sort type: alphabet
+2024-11-13T18:45:20: info: GET /api/favorites/422053225
+2024-11-13T18:45:20: GET /api/favorites/422053225
+2024-11-13T18:45:22: info: POST /api/user/settings
+2024-11-13T18:45:22: POST /api/user/settings
+2024-11-13T18:45:22: info: POST /api/user/settings
+2024-11-13T18:45:22: POST /api/user/settings
+2024-11-13T18:45:32: info: GET /api/user/settings/422053225
+2024-11-13T18:45:32: GET /api/user/settings/422053225
+2024-11-13T18:45:32: info: GET /api/apps
+2024-11-13T18:45:32: GET /api/apps
+2024-11-13T18:45:32: info: Fetched 59 apps. Sort type: alphabet
+2024-11-13T18:45:32: info: POST /api/user/settings
+2024-11-13T18:45:32: POST /api/user/settings
+2024-11-13T18:45:32: info: POST /api/user/activity
+2024-11-13T18:45:32: POST /api/user/activity
+2024-11-13T18:45:32: Received user activity data: {
+2024-11-13T18:45:32:   userId: 422053225,
+2024-11-13T18:45:32:   username: 'eugenonyx',
+2024-11-13T18:45:32:   firstName: 'Евгений TIME',
+2024-11-13T18:45:32:   lastName: ''
+2024-11-13T18:45:32: }
+2024-11-13T18:45:32: info: GET /api/apps
+2024-11-13T18:45:32: GET /api/apps
+2024-11-13T18:45:32: info: Fetched 59 apps. Sort type: alphabet
+2024-11-13T18:45:32: info: POST /api/user/settings
+2024-11-13T18:45:32: POST /api/user/settings
+2024-11-13T18:45:32: info: GET /api/favorites/422053225
+2024-11-13T18:45:32: GET /api/favorites/422053225
+2024-11-17T01:32:08: info: GET /api/apps
+2024-11-17T01:32:08: GET /api/apps
+2024-11-17T01:32:08: info: GET /api/apps
+2024-11-17T01:32:08: GET /api/apps
+2024-11-17T01:32:08: info: Fetched 59 apps. Sort type: alphabet
+2024-11-17T01:32:08: info: Fetched 59 apps. Sort type: alphabet
+2024-11-17T14:49:41: info: GET /api/user/settings/422053225
+2024-11-17T14:49:41: GET /api/user/settings/422053225
+2024-11-17T14:49:41: info: POST /api/user/settings
+2024-11-17T14:49:41: POST /api/user/settings
+2024-11-17T14:49:41: info: GET /api/apps
+2024-11-17T14:49:41: GET /api/apps
+2024-11-17T14:49:41: info: POST /api/user/activity
+2024-11-17T14:49:41: POST /api/user/activity
+2024-11-17T14:49:41: Received user activity data: {
+2024-11-17T14:49:41:   userId: 422053225,
+2024-11-17T14:49:41:   username: 'eugenonyx',
+2024-11-17T14:49:41:   firstName: 'Евгений TIME',
+2024-11-17T14:49:41:   lastName: ''
+2024-11-17T14:49:41: }
+2024-11-17T14:49:41: info: Fetched 59 apps. Sort type: alphabet
+2024-11-17T14:49:41: info: POST /api/user/settings
+2024-11-17T14:49:41: POST /api/user/settings
+2024-11-17T14:49:42: info: GET /api/apps
+2024-11-17T14:49:42: GET /api/apps
+2024-11-17T14:49:42: info: Fetched 59 apps. Sort type: alphabet
+2024-11-17T14:49:42: info: GET /api/favorites/422053225
+2024-11-17T14:49:42: GET /api/favorites/422053225
+2024-11-18T13:44:14: info: GET /api/apps
+2024-11-18T13:44:14: GET /api/apps
+2024-11-18T13:44:14: info: Fetched 59 apps. Sort type: alphabet
+2024-11-18T13:44:14: info: GET /api/apps
+2024-11-18T13:44:14: GET /api/apps
+2024-11-18T13:44:14: info: Fetched 59 apps. Sort type: alphabet
+2024-11-18T13:44:27: info: GET /api/apps
+2024-11-18T13:44:27: GET /api/apps
+2024-11-18T13:44:27: info: GET /api/apps
+2024-11-18T13:44:27: GET /api/apps
+2024-11-18T13:44:27: info: Fetched 59 apps. Sort type: alphabet
+2024-11-18T13:44:27: info: Fetched 59 apps. Sort type: alphabet
+2024-11-18T16:37:03: info: GET /api/apps
+2024-11-18T16:37:03: GET /api/apps
+2024-11-18T16:37:03: info: Fetched 59 apps. Sort type: alphabet
+2024-11-18T16:37:03: info: GET /api/apps
+2024-11-18T16:37:03: GET /api/apps
+2024-11-18T16:37:03: info: Fetched 59 apps. Sort type: alphabet
+2024-11-18T20:08:27: info: GET /api/user/settings/422053225
+2024-11-18T20:08:27: GET /api/user/settings/422053225
+2024-11-18T20:08:27: info: POST /api/user/settings
+2024-11-18T20:08:27: POST /api/user/settings
+2024-11-18T20:08:27: info: GET /api/apps
+2024-11-18T20:08:27: GET /api/apps
+2024-11-18T20:08:27: info: POST /api/user/activity
+2024-11-18T20:08:27: POST /api/user/activity
+2024-11-18T20:08:27: Received user activity data: {
+2024-11-18T20:08:27:   userId: 422053225,
+2024-11-18T20:08:27:   username: 'eugenonyx',
+2024-11-18T20:08:27:   firstName: 'Евгений TIME',
+2024-11-18T20:08:27:   lastName: ''
+2024-11-18T20:08:27: }
+2024-11-18T20:08:27: info: Fetched 59 apps. Sort type: alphabet
+2024-11-18T20:08:28: info: POST /api/user/settings
+2024-11-18T20:08:28: POST /api/user/settings
+2024-11-18T20:08:28: info: GET /api/apps
+2024-11-18T20:08:28: GET /api/apps
+2024-11-18T20:08:28: info: Fetched 59 apps. Sort type: alphabet
+2024-11-18T20:08:28: info: GET /api/favorites/422053225
+2024-11-18T20:08:28: GET /api/favorites/422053225
+2024-11-19T14:27:28: info: GET /api/apps
+2024-11-19T14:27:28: GET /api/apps
+2024-11-19T14:27:28: info: Fetched 59 apps. Sort type: alphabet
+2024-11-19T14:27:28: info: GET /api/apps
+2024-11-19T14:27:28: GET /api/apps
+2024-11-19T14:27:28: info: Fetched 59 apps. Sort type: alphabet
+2024-11-20T12:05:49: info: GET /api/user/settings/492176891
+2024-11-20T12:05:49: GET /api/user/settings/492176891
+2024-11-20T12:05:49: info: POST /api/user/settings
+2024-11-20T12:05:49: POST /api/user/settings
+2024-11-20T12:05:49: info: GET /api/apps
+2024-11-20T12:05:49: GET /api/apps
+2024-11-20T12:05:49: info: POST /api/user/activity
+2024-11-20T12:05:49: POST /api/user/activity
+2024-11-20T12:05:49: Received user activity data: {
+2024-11-20T12:05:49:   userId: 492176891,
+2024-11-20T12:05:49:   username: 'Bollik',
+2024-11-20T12:05:49:   firstName: 'Andrejs $TIME🐾 💠🍅🐐',
+2024-11-20T12:05:49:   lastName: ''
+2024-11-20T12:05:49: }
+2024-11-20T12:05:49: info: Fetched 59 apps. Sort type: alphabet
+2024-11-20T12:05:49: info: GET /api/apps
+2024-11-20T12:05:49: GET /api/apps
+2024-11-20T12:05:49: info: Fetched 59 apps. Sort type: alphabet
+2024-11-20T12:05:49: info: GET /api/favorites/492176891
+2024-11-20T12:05:49: GET /api/favorites/492176891
+2024-11-20T12:06:17: info: POST /api/apps/66a1b1f3b33b816188986f97/launch
+2024-11-20T12:06:17: POST /api/apps/66a1b1f3b33b816188986f97/launch
+2024-11-20T12:06:17: Received launch request for app ID: 66a1b1f3b33b816188986f97
+2024-11-20T12:06:17: Request body: { userId: '492176891' }
+2024-11-20T12:06:17: Incremented launch count for app 66a1b1f3b33b816188986f97
+2024-11-20T12:06:17: UserAction created for user 66b1b936805b42c125a03ff4, app 66a1b1f3b33b816188986f97
+2024-11-20T12:06:17: App launch processed. App ID: 66a1b1f3b33b816188986f97, Launch count: 8
+2024-11-20T12:06:17: info: POST /api/user/activity
+2024-11-20T12:06:17: POST /api/user/activity
+2024-11-20T12:06:17: Received user activity data: {
+2024-11-20T12:06:17:   userId: '492176891',
+2024-11-20T12:06:17:   action: 'launch',
+2024-11-20T12:06:17:   appId: '66a1b1f3b33b816188986f97'
+2024-11-20T12:06:17: }
+2024-11-20T12:11:06: info: POST /api/user/activity
+2024-11-20T12:11:06: POST /api/user/activity
+2024-11-20T12:11:06: Received user activity data: {
+2024-11-20T12:11:06:   userId: 492176891,
+2024-11-20T12:11:06:   username: 'Bollik',
+2024-11-20T12:11:06:   firstName: 'Andrejs $TIME🐾 💠🍅🐐',
+2024-11-20T12:11:06:   lastName: ''
+2024-11-20T12:11:06: }
+2024-11-21T19:14:28: info: GET /api/.env
+2024-11-21T19:14:28: GET /api/.env
+2024-11-21T19:14:28: info: GET /api/.env
+2024-11-21T19:14:28: GET /api/.env
+2024-11-22T13:52:24: info: GET /api/.env
+2024-11-22T13:52:24: GET /api/.env
+2024-11-22T13:52:26: info: GET /api/.env
+2024-11-22T13:52:26: GET /api/.env

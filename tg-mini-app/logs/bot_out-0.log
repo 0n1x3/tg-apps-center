@@ -1,0 +1,62 @@
+2024-07-30T09:59:30: 2024-07-30T09:59:30.803Z: Bot is still running...
+
+2024-07-30T10:00:30: 2024-07-30T10:00:30.803Z: Bot is still running...
+
+2024-07-30T10:01:30: 2024-07-30T10:01:30.804Z: Bot is still running...
+
+2024-07-30T10:02:30: 2024-07-30T10:02:30.805Z: Bot is still running...
+
+2024-07-30T10:03:30: 2024-07-30T10:03:30.805Z: Bot is still running...
+
+2024-07-30T10:04:30: 2024-07-30T10:04:30.804Z: Bot is still running...
+
+2024-07-30T10:05:30: 2024-07-30T10:05:30.805Z: Bot is still running...
+
+2024-07-30T10:06:30: 2024-07-30T10:06:30.804Z: Bot is still running...
+
+2024-07-30T10:07:30: 2024-07-30T10:07:30.804Z: Bot is still running...
+
+2024-07-30T10:08:30: 2024-07-30T10:08:30.805Z: Bot is still running...
+
+2024-07-30T10:09:30: 2024-07-30T10:09:30.805Z: Bot is still running...
+
+2024-07-30T10:10:30: 2024-07-30T10:10:30.805Z: Bot is still running...
+
+2024-07-30T10:15:21: 2024-07-30T10:15:21.598Z: Bot script started
+2024-07-30T10:15:21: 
+2024-07-30T10:15:21: 2024-07-30T10:15:21.602Z: TELEGRAM_BOT_TOKEN is set
+2024-07-30T10:15:21: 
+2024-07-30T10:15:21: 2024-07-30T10:15:21.602Z: Initializing bot...
+2024-07-30T10:15:21: 
+2024-07-30T10:15:21: 2024-07-30T10:15:21.609Z: Bot initialized and started polling
+2024-07-30T10:15:21: 
+2024-07-30T10:15:21: 2024-07-30T10:15:21.610Z: Bot script finished loading
+2024-07-30T10:15:21: 
+2024-07-30T10:15:25: 2024-07-30T10:15:25.438Z: Bot polling error: ETELEGRAM: 409 Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-07-30T10:15:25: 
+2024-07-30T10:15:32: 2024-07-30T10:15:32.397Z: Bot polling error: ETELEGRAM: 409 Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-07-30T10:15:32: 
+2024-07-30T10:15:39: 2024-07-30T10:15:39.351Z: Bot polling error: ETELEGRAM: 409 Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-07-30T10:15:39: 
+2024-07-30T10:15:46: 2024-07-30T10:15:46.308Z: Bot polling error: ETELEGRAM: 409 Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-07-30T10:15:46: 
+2024-07-30T10:15:53: 2024-07-30T10:15:53.260Z: Bot polling error: ETELEGRAM: 409 Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-07-30T10:15:53: 
+2024-07-30T10:16:00: 2024-07-30T10:16:00.234Z: Bot polling error: ETELEGRAM: 409 Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-07-30T10:16:00: 
+2024-07-30T10:16:07: 2024-07-30T10:16:07.221Z: Bot polling error: ETELEGRAM: 409 Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-07-30T10:16:07: 
+2024-07-30T10:16:16: 2024-07-30T10:16:16.180Z: Bot polling error: ETELEGRAM: 409 Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-07-30T10:16:16: 
+2024-07-30T10:16:21: 2024-07-30T10:16:21.610Z: Bot is still running...
+2024-07-30T10:16:21: 
+2024-07-30T10:16:23: 2024-07-30T10:16:23.128Z: Bot polling error: ETELEGRAM: 409 Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-07-30T10:16:23: 
+2024-07-30T10:16:30: 2024-07-30T10:16:30.078Z: Bot polling error: ETELEGRAM: 409 Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-07-30T10:16:30: 
+2024-07-30T10:16:37: 2024-07-30T10:16:37.023Z: Bot polling error: ETELEGRAM: 409 Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-07-30T10:16:37: 
+2024-07-30T10:16:43: 2024-07-30T10:16:43.969Z: Bot polling error: ETELEGRAM: 409 Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-07-30T10:16:43: 
+2024-07-30T10:16:50: 2024-07-30T10:16:50.910Z: Bot polling error: ETELEGRAM: 409 Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-07-30T10:16:50: 
